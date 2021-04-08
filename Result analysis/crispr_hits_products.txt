@@ -1,0 +1,505 @@
+hypothetical protein HeimC3_48530
+CRISPR-associated protein Cas4
+CRISPR-associated protein Cas4
+CRISPR-associated exonuclease Cas4
+CRISPR-associated protein Cas4
+putative CRISPR-associated protein Cas4
+CRISPR-associated protein Cas4
+CRISPR-associated protein Cas4
+cas4: CRISPR-associated protein Cas4
+hypothetical protein DRP09_21080
+PD-(D/E)XK nuclease family protein
+ATP-dependent RecD-like DNA helicase
+hypothetical protein DRO87_07365
+hypothetical protein DRP09_09165
+hypothetical protein DRO93_04390
+hypothetical protein HeimC3_15620
+hypothetical protein DRO73_06080
+hypothetical protein E3J82_01995, partial
+hypothetical protein E3J86_14375
+hypothetical protein C4K47_09525
+hypothetical protein E3J82_05145, partial
+hypothetical protein C4K48_03820
+Replicase polyprotein 1ab, partial
+AAA ATPase
+hypothetical protein DRO67_07405
+hypothetical protein E3J43_04410, partial
+AAA ATPase
+hypothetical protein EU538_09225
+hypothetical protein DRP02_02610
+hypothetical protein HeimC3_34640
+hypothetical protein DRO63_02810, partial
+hypothetical protein DRO67_09480
+hypothetical protein HeimC2_45240
+hypothetical protein HeimC2_30180, partial
+hypothetical protein DRP02_12410
+ATP-dependent DNA helicase
+hypothetical protein EU530_05855, partial
+ATP-dependent DNA helicase
+ATP-dependent DNA helicase
+hypothetical protein DRO67_01015
+CRISPR-associated protein Cas4
+CRISPR-associated protein Cas4
+CRISPR-associated protein Cas4
+CRISPR-associated protein Cas4, partial
+hypothetical protein DRP09_06645
+hypothetical protein DRO87_08860
+hypothetical protein DRO88_09905, partial
+ CRISPR system precrRNA processing endoribonuclease RAMP protein 
+hypothetical protein DRP09_18220
+hypothetical protein OdinLCB4_00120
+hypothetical protein BAJALOKI3v1_820004
+hypothetical protein BAJALOKI3v1_170046
+hypothetical protein RBG13Loki_2756
+hypothetical protein EU551_04725, partial
+hypothetical protein DRO93_11295, partial
+CRISPR-associated helicase Cas3
+hypothetical protein OdinLCB4_00050
+CRISPR-associated helicase/endonuclease Cas3
+hypothetical protein BAJALOKI3v1_170047
+hypothetical protein DRO93_10400
+hypothetical protein DRP09_17935, partial
+putative CRISPR-associated nuclease/helicase Cas3
+putative ski2-type helicase
+putative ski2-type helicase
+hypothetical protein DRO88_10420
+putative ski2-type helicase
+putative ski2-type helicase
+putative ski2-type helicase
+RNA helicase
+hypothetical protein DRO93_01725
+helicase
+helicase
+RNA helicase
+type I-D CRISPR-associated helicase Cas3'
+type I-D CRISPR-associated helicase Cas3'
+hypothetical protein CEE45_12800
+type I-D CRISPR-associated helicase Cas3'
+helicase, partial
+hypothetical protein C4K48_00770
+helicase
+DEAD/DEAH box helicase
+hypothetical protein CEE45_12480
+DEAD/DEAH box helicase
+hypothetical protein DRO87_00095
+hypothetical protein DRP09_07520
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase, partial
+DEAD/DEAH box helicase
+helicase
+DEAD/DEAH box helicase, partial
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase
+hypothetical protein C4K49_07095
+hypothetical protein C4K47_03070
+Putative ski2-type helicase
+ATP-dependent RNA helicase RhlE
+DEAD/DEAH box helicase, partial
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase, partial
+hypothetical protein CEE45_05110
+ATP dependent RNA helicase
+ATP-dependent RNA helicase RhlE
+putative ski2-type helicase
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase
+hypothetical protein CEE43_09680
+DEAD/DEAH box helicase, partial
+putative DEAD-box ATP-dependent RNA helicase
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase
+RNA helicase
+putative ski2-type helicase
+DEAD/DEAH box helicase
+putative ski2-type helicase
+ATP-dependent helicase, partial
+DEAD/DEAH box helicase
+ATP-dependent RNA helicase RhlE
+putative ski2-type helicase
+RNA helicase
+DEAD/DEAH box helicase
+putative ski2-type helicase
+DEAD/DEAH box helicase, partial
+extensin
+DEAD-box ATP-dependent RNA helicase CshA, partial
+DEAD/DEAH box helicase, partial
+DEAD/DEAH box helicase
+putative ATP-dependent helicase Lhr
+putative ski2-type helicase
+DEAD/DEAH box helicase
+DEAD-box ATP-dependent RNA helicase CshB
+DEAD-box ATP-dependent RNA helicase CshB
+putative ATP-dependent RNA helicase
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase
+putative ATP-dependent RNA helicase
+DEAD/DEAH box helicase
+ATP-dependent RNA helicase
+hypothetical protein CEE43_16320
+DEAD/DEAH box helicase
+hypothetical protein DRP02_11110
+putative ski2-type helicase
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase
+ATP-dependent helicase
+extensin
+hypothetical protein CEE45_17260
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase
+putative ATP-dependent helicase Lhr
+DEAD/DEAH box helicase, partial
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase domain-containing protein
+putative ski2-type helicase
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase
+putative ski2-type helicase
+DEAD/DEAH box helicase
+hypothetical protein CEE45_06930
+hypothetical protein DRP02_13740
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase, partial
+RNA helicase
+ATP-dependent RNA helicase RhlE
+hypothetical protein CEE45_14035
+DEAD/DEAH box helicase
+extensin
+DEAD/DEAH box helicase
+putative ski2-type helicase
+DEAD/DEAH box helicase
+hypothetical protein DRO67_10450, partial
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase
+hypothetical protein EU523_01135, partial
+ATP-dependent RNA helicase RhlB
+DEAD/DEAH box helicase
+putative ATP-dependent RNA helicase
+DEAD/DEAH box helicase, partial
+RNA helicase
+ski2-type helicase
+hypothetical protein DRO88_00060
+ATP-dependent DNA helicase
+hypothetical protein DRP02_02875
+hypothetical protein CEE45_05255
+RNA helicase
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase
+hypothetical protein DRP09_08940, partial
+DEAD/DEAH box helicase
+RNA helicase
+DEAD/DEAH box helicase
+UvrABC system protein B
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase, partial
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase
+Putative ski2-type helicase
+hypothetical protein C4K49_07970
+helicase
+hypothetical protein CEE43_12710
+DEAD/DEAH box helicase
+putative ski2-type helicase
+RNA helicase
+transcription-repair coupling factor, partial
+DEAD/DEAH box helicase family protein
+putative ATP-dependent RNA helicase
+hypothetical protein EU542_01295
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase, partial
+excinuclease ABC subunit B, partial
+DEAD/DEAH box helicase, partial
+putative ski2-type helicase
+hypothetical protein DRP09_17090
+DEAD/DEAH box helicase
+hypothetical protein CEE42_04435
+DEAD/DEAH box helicase, partial
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase
+hypothetical protein DRO88_13475
+DEAD/DEAH box helicase
+hypothetical protein DRO67_03120, partial
+putative RNA helicase
+putative Helicase domain-containing protein
+ATP-dependent RNA helicase DbpA
+DEAD/DEAH box helicase
+excinuclease ABC subunit UvrB
+superfamily II helicase
+DEAD/DEAH box helicase
+putative Helicase domain-containing protein
+excinuclease ABC subunit UvrB
+excinuclease ABC subunit UvrB
+DEAD/DEAH box helicase, partial
+hypothetical protein CEE42_15485
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase
+ATP-dependent RNA helicase DbpA
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase
+hypothetical protein BAJALOKI1v1_430019
+DEAD/DEAH box helicase
+excinuclease ABC subunit UvrB
+ excinulease of nucleotide excision repair, DNA damage recognition 
+ excinulease of nucleotide excision repair, DNA damage recognition 
+DEAD/DEAH box helicase
+hypothetical protein E3J52_12010
+DEAD/DEAH box helicase
+putative ski2-type helicase
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase
+hypothetical protein CEE45_17845
+excinuclease ABC subunit B
+hypothetical protein EU532_13545
+DEAD/DEAH box helicase
+hypothetical protein CEE42_16320
+DEAD/DEAH box helicase
+hypothetical protein C4K48_10360
+hypothetical protein EU532_12970
+hypothetical protein DRO91_04345
+excinuclease ABC subunit UvrB
+hypothetical protein CEE43_15615
+DEAD/DEAH box helicase
+excinuclease ABC subunit B
+UvrABC system protein B
+excinuclease ABC subunit B
+hypothetical protein DRP02_11075, partial
+excinuclease ABC subunit UvrB
+ excinulease of nucleotide excision repair, DNA damage recognition 
+CRISPR-associated endonuclease Cas3''
+CRISPR-associated endonuclease Cas3'', partial
+DEAD/DEAH box helicase
+Putative ski2-type helicase
+DEAD/DEAH box helicase, partial
+hypothetical protein BAJALOKI2v1_540010
+DEAD/DEAH box helicase
+hypothetical protein BAJALOKI1v1_430014
+DEAD/DEAH box helicase
+Putative ski2-type helicase
+DEAD/DEAH box helicase family protein
+ATP-dependent RNA helicase SrmB
+DEAD/DEAH box helicase
+putative ski2-type helicase
+putative ski2-type helicase
+hypothetical protein DRO93_12410, partial
+hypothetical protein DRO88_10250
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase
+hypothetical protein CEE42_04465
+hypothetical protein OdinLCB4_00110
+hypothetical protein DRP09_06635
+hypothetical protein DRO87_08870
+ArsR family transcriptional regulator
+hypothetical protein C4K48_11440
+hypothetical protein DRO93_08535
+hypothetical protein DRO67_07165
+hypothetical protein DRP09_08855
+hypothetical protein DRO87_10310
+ArsR family transcriptional regulator
+hypothetical protein DRO93_08780, partial
+hypothetical protein CEE45_14530
+DUF120 domain-containing protein
+Riboflavin kinase
+hypothetical protein RBG13Loki_3042
+HTH domain-containing protein
+hypothetical protein CEE43_12340
+hypothetical protein EU536_03850
+hypothetical protein DRP02_13850
+hypothetical protein C4K48_08265
+hypothetical protein C4K48_11560
+hypothetical protein BAJALOKI3v1_330007
+ArsR family transcriptional regulator, partial
+hypothetical protein BAJALOKI2v1_150053
+winged helix-turn-helix transcriptional regulator
+hypothetical protein C4K48_11445
+Lrp/AsnC family transcriptional regulator
+ArsR family transcriptional regulator, partial
+ArsR family transcriptional regulator
+hypothetical protein CEE45_17155
+ArsR family transcriptional regulator
+hypothetical protein DRO93_13770
+hypothetical protein DRO73_04745
+hypothetical protein BAJALOKI1v1_100003
+hypothetical protein CEE42_07195
+winged helix-turn-helix transcriptional regulator
+winged helix-turn-helix transcriptional regulator
+ArsR family transcriptional regulator
+ArsR family transcriptional regulator
+hypothetical protein E3J82_01505
+ArsR family transcriptional regulator
+HTH-type transcriptional regulator
+ArsR family transcriptional regulator
+HTH-type transcriptional repressor AseR
+hypothetical protein BAJALOKI2v1_420010
+hypothetical protein DRP09_08520
+hypothetical protein EU535_05080
+ArsR family transcriptional regulator
+hypothetical protein C4K49_12765
+hypothetical protein BAJALOKI3v1_90011
+ArsR family transcriptional regulator
+ArsR family transcriptional regulator
+hypothetical protein C4K47_07740
+metal-dependent transcriptional regulator
+Lrp/AsnC family transcriptional regulator
+hypothetical protein CEE45_01145
+hypothetical protein DRP09_06630
+threonine synthase
+Transcriptional repressor SdpR
+hypothetical protein CEE45_05870
+hypothetical protein CEE43_17835
+ArsR family transcriptional regulator
+ArsR family transcriptional regulator
+ArsR family transcriptional regulator
+S-layer protein
+hypothetical protein DRO93_02980
+acyl-CoA dehydrogenase, partial
+ArsR family transcriptional regulator
+MarR family transcriptional regulator
+putative HTH-type transcriptional regulator YybR
+hypothetical protein DRO87_12745, partial
+Lrp/AsnC family transcriptional regulator
+hypothetical protein DRP02_04530
+subtype I-C CRISPR-associated endonuclease Cas1
+subtype I-B CRISPR-associated endonuclease Cas1
+CRISPR-associated endonuclease Cas1
+CRISPR-associated endonuclease Cas1
+CRISPR-associated endonuclease Cas1
+CRISPR-associated endonuclease Cas1 2
+subtype I-B CRISPR-associated endonuclease Cas1
+putative CRISPR-associated endonuclease Cas1 1
+CRISPR-associated endonuclease Cas1
+type III-B CRISPR module-associated protein Cmr5
+type III-B CRISPR module-associated protein Cmr5
+type III-B CRISPR module-associated protein Cmr5
+type III-B CRISPR module-associated protein Cmr5, partial
+type III-B CRISPR module RAMP protein Cmr4
+type III-B CRISPR module RAMP protein Cmr4
+type III-B CRISPR module RAMP protein Cmr4
+type III-B CRISPR module RAMP protein Cmr4
+type III-B CRISPR module RAMP protein Cmr4
+hypothetical protein DRP09_19695, partial
+hypothetical protein DRP09_15670
+hypothetical protein DRP09_13445
+hypothetical protein OdinLCB4_03070
+hypothetical protein OdinLCB4_03060
+hypothetical protein DRO93_14865
+hypothetical protein DRP09_13450
+hypothetical protein DRO88_12610
+type III-A CRISPR-associated RAMP protein Csm3
+hypothetical protein OdinLCB4_03100
+hypothetical protein OdinLCB4_03040
+CRISPR-associated RAMP protein Csx10, partial
+CRISPR-associated protein
+hypothetical protein DRO93_14860
+hypothetical protein BAJALOKI1v1_150018
+hypothetical protein OdinLCB4_03090
+type III-B CRISPR module RAMP protein Cmr6
+type III-B CRISPR module RAMP protein Cmr6
+hypothetical protein DRP09_19705
+type III-B CRISPR module RAMP protein Cmr6
+hypothetical protein BAJALOKI1v1_150019
+hypothetical protein DRP09_17880, partial
+type III-B CRISPR module-associated protein Cmr3
+type III-B CRISPR module-associated protein Cmr3
+type III-B CRISPR module-associated protein Cmr3
+type III-B CRISPR-associated protein Cas10/Cmr2, partial
+type III-B CRISPR-associated protein Cas10/Cmr2
+type III-B CRISPR-associated protein Cas10/Cmr2
+type III-A CRISPR-associated protein Cas10/Csm1
+type III-B CRISPR-associated protein Cas10/Cmr2, partial
+type III-A CRISPR-associated protein Cas10/Csm1, partial
+hypothetical protein DRP09_20940, partial
+phosphohydrolase, partial
+hypothetical protein OdinLCB4_03110
+hypothetical protein OdinLCB4_00080
+CRISPR-associated protein, Csh2 family
+type I-C CRISPR-associated protein Cas7/Csd2, partial
+putative CRISPR-associated protein, Csh2 family
+CRISPR-associated protein, Csh2 family, partial
+putative Type I-B CRISPR-associated protein Cas5
+type I-B CRISPR-associated protein Cas5
+type I-B CRISPR-associated protein Cas5
+hypothetical protein DRP09_19710, partial
+CRISPR-associated protein Cas5
+putative RAMP superfamily DNA repair protein
+type III-A CRISPR-associated RAMP protein Csm4
+type I-D CRISPR-associated protein Cas7/Csc2
+type I-D CRISPR-associated protein Cas7/Csc2
+type I-D CRISPR-associated protein Cas7/Csc2
+putative ATP-dependent helicase Lhr
+DEAD/DEAH box helicase
+DEAD/DEAH box helicase, partial
+DEAD/DEAH box helicase
+excinuclease ABC subunit B
+CRISPR-associated protein Cas7/Csa2 1
+type I-B CRISPR-associated protein Cas7/Cst2/DevR, partial
+type I-B CRISPR-associated protein Cas7/Cst2/DevR, partial
+type III-A CRISPR-associated RAMP protein Csm5
+hypothetical protein BAJALOKI3v1_820003
+ CRISPR-associated endonuclease Cas1/endonuclease Cas2 fusion 
+CRISPR-associated endonuclease Cas2
+CRISPR-associated endonuclease Cas2
+CRISPR-associated endonuclease Cas2
+CRISPR-associated endonuclease Cas2
+CRISPR-associated endonuclease Cas2
+CRISPR-associated endonuclease Cas2
+CRISPR-associated endonuclease Cas2
+hypothetical protein RBG13Loki_1397
+CRISPR-associated endonuclease Cas2
+hypothetical protein BAJALOKI3v1_170055
+CRISPR-associated protein Csa1
+type I-A CRISPR-associated protein Cas4/Csa1
+type I-A CRISPR-associated protein Cas4/Csa1
+CRISPR-associated endoribonuclease Cas6
+CRISPR-associated endoribonuclease Cas6, partial
+hypothetical protein DRP09_16990
+hypothetical protein DRO93_12190, partial
+hypothetical protein DRP09_16995
+hypothetical protein DRP09_19700
+type I-E CRISPR-associated protein Cse1/CasA
+type I-E CRISPR-associated protein Cse1/CasA
+hypothetical protein RBG13Loki_3431
+hypothetical protein RBG13Loki_3430
+hypothetical protein RBG13Loki_3433
+type I-E CRISPR-associated protein Cas7/Cse4/CasC
+putative CRISPR-associated protein
+CRISPR-associated protein, Csh1 family
+hypothetical protein RBG13Loki_1400
+hypothetical protein CEE42_04310
+type I-D CRISPR-associated protein Cas5/Csc1
+type I-D CRISPR-associated protein Cas5/Csc1, partial
+type I-D CRISPR-associated protein Cas5/Csc1
+type I-D CRISPR-associated protein Cas5/Csc1, partial
+type I-B CRISPR-associated protein Cas8b1/Cst1
+type I-B CRISPR-associated protein Cas8b1/Cst1
+hypothetical protein DRP02_02895
+hypothetical protein DRO63_02695
+hypothetical protein E3J70_12265
+hypothetical protein DRO91_04070, partial
+hypothetical protein DRO93_05110
+hypothetical protein DRO73_05455
+hypothetical protein C4K49_05330
+hypothetical protein EU538_04110
+hypothetical protein C4K47_00875
+hypothetical protein C4K48_07145
+hypothetical protein DRO87_02680
+hypothetical protein DRP09_10095
+hypothetical protein CEE42_04240
+hypothetical protein OdinLCB4_00100
+hypothetical protein OdinLCB4_00070
+hypothetical protein DRP09_17005, partial
+type III-A CRISPR-associated protein Csm2
+type III-A CRISPR-associated protein Csm2, partial
+hypothetical protein RBG13Loki_3434
+type I-E CRISPR-associated protein Cas5/CasD, partial
+CRISPR-associated protein, Cse3 family
+hypothetical protein DRP09_16140
+hypothetical protein OdinLCB4_03020
+TIGR02221 family CRISPR-associated protein
+hypothetical protein DRO93_11460, partial

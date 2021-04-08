@@ -1,0 +1,2661 @@
+hypothetical protein
+hypothetical protein
+hypothetical protein
+DEAD-box ATP-dependent RNA helicase CshB
+Chaperone protein DnaK
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+putative ATP-dependent RNA helicase
+Pyrimidine 5'-nucleotidase YjjG
+Alpha-amylase 1
+hypothetical protein
+Tryptophan synthase beta chain 1
+Isoleucine--tRNA ligase
+Sulfide dehydrogenase [flavocytochrome c] flavoprotein chain precursor
+putative ski2-type helicase
+7, 8-dihydropterin-6-methyl-4-(beta-D-ribofuranosyl)- aminobenzene-5'-phosphate synthase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+putative ski2-type helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+Photosystem I assembly protein Ycf3
+hypothetical protein
+putative ski2-type helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+Calcium-transporting ATPase 1
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+putative ski2-type helicase
+hypothetical protein
+ATP-dependent DNA helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+putative ski2-type helicase
+hypothetical protein
+hypothetical protein
+Sensor protein KdpD
+N-(5'-phosphoribosyl)anthranilate isomerase
+Pyruvoyl-dependent arginine decarboxylase
+hypothetical protein
+Transcriptional repressor SdpR
+hypothetical protein
+hypothetical protein
+Valine--tRNA ligase
+hypothetical protein
+Protoheme IX farnesyltransferase
+Monomeric sarcosine oxidase
+UvrABC system protein B
+hypothetical protein
+hypothetical protein
+Thiol:disulfide interchange protein DsbD precursor
+hypothetical protein
+hypothetical protein
+7, 8-dihydropterin-6-methyl-4-(beta-D-ribofuranosyl)- aminobenzene-5'-phosphate synthase
+putative ski2-type helicase
+Sulfide dehydrogenase [flavocytochrome c] flavoprotein chain precursor
+Isoleucine--tRNA ligase
+Tryptophan synthase beta chain 1
+Exosome complex component Rrp42
+Chromosome partition protein Smc
+hypothetical protein
+putative ski2-type helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+Coenzyme A biosynthesis bifunctional protein CoaBC
+Modification methylase MjaII
+hypothetical protein
+hypothetical protein
+Deoxyuridine 5'-triphosphate nucleotidohydrolase
+HIT-like protein
+Molybdopterin molybdenumtransferase
+Iron-sulfur cluster insertion protein ErpA
+hypothetical protein
+Quinoprotein glucose dehydrogenase B precursor
+putative ski2-type helicase
+Glyoxylate reductase
+hypothetical protein
+hypothetical protein
+Methyl-accepting chemotaxis protein McpC
+hypothetical protein
+Blue-light-activated protein
+putative HTH-type transcriptional regulator YybR
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+Ribonuclease 3
+hypothetical protein
+DNA helicase II
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+DEAD-box ATP-dependent RNA helicase CshB
+Chaperone protein DnaK
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+putative ski2-type helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+peptidase S9
+hypothetical protein
+DEAD/DEAH box helicase
+pyrophosphatase
+electron transfer oxidoreductase
+exonuclease-like protein
+ATP-dependent RNA helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+beta-lactamase domain protein
+DEAD/DEAH box helicase domain-containing protein
+haloacid dehalogenase superfamily protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+cas4: CRISPR-associated protein Cas4
+CRISPR-associated protein, Csh1 family
+hypothetical protein
+cas4: CRISPR-associated protein Cas4
+CRISPR-associated protein, Csh1 family
+hypothetical protein
+CRISPR-associated protein, Csh2 family
+hypothetical protein
+cas4: CRISPR-associated protein Cas4
+CRISPR-associated protein, Csh1 family
+hypothetical protein
+CRISPR-associated protein, Csh2 family
+cas4: CRISPR-associated protein Cas4
+CRISPR-associated protein, Csh1 family
+hypothetical protein
+CRISPR-associated protein, Csh2 family
+cas4: CRISPR-associated protein Cas4
+CRISPR-associated protein, Csh1 family
+hypothetical protein
+CRISPR-associated protein, Csh2 family
+hypothetical protein
+hypothetical protein
+AAA ATPase
+DNA topoisomerase I
+hypothetical protein
+Uncharacterized protein
+hypothetical protein
+ATP dependent RNA helicase
+hypothetical protein
+methyltransferase, type 12
+type 11 methyltransferase
+hypothetical protein
+glycosyl hydrolase family 3
+superfamily II helicase
+histone deacetylase superfamily protein
+hypothetical protein
+M protein repeat protein
+hypothetical protein
+putative CRISPR-associated helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+putative CRISPR-associated helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+CRISPR-associated protein, Cse3 family
+CRISPR-associated protein Cas1
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+CRISPR-associated protein, Cse3 family
+CRISPR-associated protein Cas1
+putative CRISPR-associated protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+CRISPR-associated protein, Cse3 family
+CRISPR-associated protein Cas1
+putative CRISPR-associated protein
+hypothetical protein
+hypothetical protein
+CRISPR-associated protein, Cse3 family
+CRISPR-associated protein Cas1
+putative CRISPR-associated protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+ski2-type helicase
+hypothetical protein
+hypothetical protein
+Integrase catalytic region
+hypothetical protein
+hypothetical protein
+AAA ATPase
+hypothetical protein
+Radical SAM additional 4Fe4S-binding domain-containing protein
+hypothetical protein
+AAA ATPase
+hypothetical protein
+Radical SAM additional 4Fe4S-binding domain-containing protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+CRISPR-associated exonuclease Cas4
+CRISPR-associated endonuclease Cas1/endonuclease Cas2 fusion
+CRISPR-associated endonuclease Cas1 2
+CRISPR-associated protein Csa1
+hypothetical protein
+putative CRISPR-associated nuclease/helicase Cas3
+hypothetical protein
+CRISPR-associated endonuclease Cas1/endonuclease Cas2 fusion
+CRISPR-associated endonuclease Cas1 2
+CRISPR-associated protein Csa1
+hypothetical protein
+putative CRISPR-associated nuclease/helicase Cas3
+hypothetical protein
+hypothetical protein
+CRISPR-associated endonuclease Cas1 2
+CRISPR-associated protein Csa1
+hypothetical protein
+putative CRISPR-associated nuclease/helicase Cas3
+hypothetical protein
+hypothetical protein
+CRISPR-associated protein Cas7/Csa2 1
+CRISPR-associated protein Csa1
+hypothetical protein
+putative CRISPR-associated nuclease/helicase Cas3
+hypothetical protein
+hypothetical protein
+CRISPR-associated protein Cas7/Csa2 1
+hypothetical protein
+hypothetical protein
+putative CRISPR-associated nuclease/helicase Cas3
+hypothetical protein
+hypothetical protein
+CRISPR-associated protein Cas7/Csa2 1
+hypothetical protein
+hypothetical protein
+putative CRISPR-associated nuclease/helicase Cas3
+hypothetical protein
+hypothetical protein
+CRISPR-associated protein Cas7/Csa2 1
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+CRISPR-associated protein Cas7/Csa2 1
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+CRISPR-associated protein Cas7/Csa2 1
+hypothetical protein
+hypothetical protein
+hypothetical protein
+CRISPR-associated protein Cas7/Csa2 1
+hypothetical protein
+hypothetical protein
+hypothetical protein
+Chromosome partition protein Smc
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+VCP-like ATPase
+hypothetical protein
+putative ski2-type helicase
+hypothetical protein
+hypothetical protein
+putative sulfoacetate transporter SauU
+hypothetical protein
+hypothetical protein
+Minichromosome maintenance protein MCM
+putative ski2-type helicase
+Soluble hydrogenase 42 kDa subunit
+tRNA 2-thiocytidine biosynthesis protein TtcA
+hypothetical protein
+Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+Phosphoadenosine phosphosulfate reductase
+hypothetical protein
+ATP-dependent RNA helicase DbpA
+hypothetical protein
+Hydrogenase isoenzymes formation protein HypE
+Bifunctional thiamine biosynthesis protein ThiDN
+Glutamate synthase [NADPH] small chain
+L-2-hydroxyglutarate oxidase LhgO
+hypothetical protein
+putative ski2-type helicase
+hypothetical protein
+Hypoxic response protein 1
+Homoserine O-acetyltransferase
+putative metallo-hydrolase
+Acetylpolyamine aminohydrolase
+hypothetical protein
+putative ski2-type helicase
+Zinc-type alcohol dehydrogenase-like protein
+Minichromosome maintenance protein MCM
+hypothetical protein
+50S ribosomal protein L1
+ATP-dependent RNA helicase DbpA
+ATP-dependent RNA helicase DbpA
+putative ski2-type helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+ATP-dependent RNA helicase RhlE
+Haloalkane dehalogenase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+ATP-dependent DNA helicase
+hypothetical protein
+putative methylthioribose-1-phosphate isomerase
+Bacillibactin exporter
+UvrABC system protein C
+2,2-dialkylglycine decarboxylase
+UvrABC system protein A
+UvrABC system protein B
+hypothetical protein
+hypothetical protein
+hypothetical protein
+UDP-glucose 4-epimerase
+Pyruvate carboxylase subunit A
+Glutaconyl-CoA decarboxylase subunit gamma
+ATP-dependent RNA helicase RhlE
+Thermosome subunit alpha
+Threonine/homoserine exporter RhtA
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+putative ski2-type helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+Acetophenone carboxylase gamma subunit
+Transcription initiation factor IIB 2
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+putative ski2-type helicase
+hypothetical protein
+E3 ubiquitin-protein ligase SlrP
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+ATP-dependent RNA helicase RhlB
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+putative bifunctional tRNA threonylcarbamoyladenosine biosynthesis protein
+hypothetical protein
+Ribonuclease P protein component 1
+Valine--tRNA ligase
+Multidrug resistance protein stp
+ATP-dependent RNA helicase DbpA
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+putative ski2-type helicase
+putative N-acetyltransferase
+hypothetical protein
+hypothetical protein
+DEAD-box ATP-dependent RNA helicase CshA
+hypothetical protein
+hypothetical protein
+p-aminobenzoyl-glutamate hydrolase subunit B
+Enolase
+putative metalloprotease YpwA
+hypothetical protein
+HTH-type transcriptional regulator
+hypothetical protein
+Ribonuclease
+hypothetical protein
+hypothetical protein
+Ferredoxin-2
+hypothetical protein
+Replicase polyprotein 1ab
+NAD(P)-dependent glycerol-1-phosphate dehydrogenase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+transposase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+DNA methylase
+hypothetical protein
+nucleotidyltransferase
+hypothetical protein
+hypothetical protein
+NAD(+) synthase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+long-chain-fatty-acyl-CoA reductase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+acetyl-CoA synthetase
+hypothetical protein
+glutamine--fructose-6-phosphate transaminase (isomerizing)
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+DEAD/DEAH box helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+50S ribosomal protein L44e
+signal peptidase I
+GTPase
+hypothetical protein
+MFS transporter
+CTP synthetase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+RNA helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+phenylalanine--tRNA ligase subunit alpha
+peptide chain release factor 1
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hydrogenase accessory protein HypB
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+TIGR01210 family radical SAM protein
+hypothetical protein
+helicase
+hypothetical protein
+thiol reductase thioredoxin
+hypothetical protein
+aldehyde ferredoxin oxidoreductase
+deoxyribose-phosphate aldolase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+MarR family transcriptional regulator
+glucose-1-phosphate thymidylyltransferase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+TIGR00341 family protein
+hypothetical protein
+hypothetical protein
+two-component system response regulator
+hypothetical protein
+hypothetical protein
+RNA 2',3'-cyclic phosphodiesterase
+tRNA-Pro
+histone deacetylase
+extensin
+Minichromosome maintenance protein MCM
+hypothetical protein
+replication factor C small subunit
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+peptide chain release factor 1
+phenylalanine--tRNA ligase subunit alpha
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+GTP-binding protein EngB
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+thiol reductase thioredoxin
+RNA helicase
+hypothetical protein
+TIGR01210 family radical SAM protein
+hypothetical protein
+hypothetical protein
+non-canonical purine NTP pyrophosphatase, RdgB/HAM1 family
+hypothetical protein
+hypothetical protein
+ribonuclease Z
+hypothetical protein
+L-asparaginase 1
+hypothetical protein
+hypothetical protein
+hypothetical protein
+RNA helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+AmmeMemoRadiSam system radical SAM enzyme
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+peptide chain release factor 1
+phenylalanine--tRNA ligase subunit alpha
+hypothetical protein
+hypothetical protein
+GTP-binding protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+TIGR01210 family radical SAM protein
+hypothetical protein
+RNA helicase
+hypothetical protein
+hypothetical protein
+gamma carbonic anhydrase family protein
+ABC transporter ATP-binding protein
+ABC transporter ATP-binding protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+TIGR01210 family radical SAM protein
+hypothetical protein
+helicase
+hypothetical protein
+hypothetical protein
+gamma carbonic anhydrase family protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+RNA helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+phenylalanine--tRNA ligase subunit alpha
+peptide chain release factor 1
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+type III-B CRISPR-associated protein Cas10/Cmr2
+type III-B CRISPR module-associated protein Cmr3
+type III-B CRISPR module RAMP protein Cmr4
+hypothetical protein
+type III-B CRISPR-associated protein Cas10/Cmr2
+type III-B CRISPR module-associated protein Cmr3
+type III-B CRISPR module RAMP protein Cmr4
+hypothetical protein
+hypothetical protein
+type III-B CRISPR-associated protein Cas10/Cmr2
+type III-B CRISPR module-associated protein Cmr3
+type III-B CRISPR module RAMP protein Cmr4
+hypothetical protein
+hypothetical protein
+type III-B CRISPR module-associated protein Cmr5
+type III-B CRISPR module RAMP protein Cmr4
+hypothetical protein
+hypothetical protein
+type III-B CRISPR module-associated protein Cmr5
+type III-B CRISPR module RAMP protein Cmr6
+TIGR02221 family CRISPR-associated protein
+hypothetical protein
+hypothetical protein
+type III-B CRISPR module-associated protein Cmr5
+type III-B CRISPR module RAMP protein Cmr6
+TIGR02221 family CRISPR-associated protein
+DUF86 domain-containing protein
+type I-B CRISPR-associated protein Cas8b1/Cst1
+type I-B CRISPR-associated protein Cas7/Cst2/DevR
+type I-B CRISPR-associated protein Cas5
+CRISPR-associated helicase Cas3
+CRISPR-associated protein Cas4
+peptidoglycan editing factor PgeF
+type I-B CRISPR-associated protein Cas8b1/Cst1
+type I-B CRISPR-associated protein Cas7/Cst2/DevR
+type I-B CRISPR-associated protein Cas5
+CRISPR-associated helicase Cas3
+CRISPR-associated protein Cas4
+peptidoglycan editing factor PgeF
+type I-B CRISPR-associated protein Cas7/Cst2/DevR
+type I-B CRISPR-associated protein Cas5
+CRISPR-associated helicase Cas3
+CRISPR-associated protein Cas4
+peptidoglycan editing factor PgeF
+extensin
+Minichromosome maintenance protein MCM
+hypothetical protein
+methylmalonyl-CoA carboxyltransferase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+type I-A CRISPR-associated protein Cas4/Csa1
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+type I-A CRISPR-associated protein Cas4/Csa1
+hypothetical protein
+type I-D CRISPR-associated helicase Cas3'
+hypothetical protein
+hypothetical protein
+hypothetical protein
+type I-A CRISPR-associated protein Cas4/Csa1
+hypothetical protein
+type I-D CRISPR-associated helicase Cas3'
+type I-D CRISPR-associated protein Cas5/Csc1
+hypothetical protein
+hypothetical protein
+type I-A CRISPR-associated protein Cas4/Csa1
+hypothetical protein
+type I-D CRISPR-associated helicase Cas3'
+type I-D CRISPR-associated protein Cas5/Csc1
+type I-D CRISPR-associated protein Cas7/Csc2
+hypothetical protein
+type I-A CRISPR-associated protein Cas4/Csa1
+hypothetical protein
+type I-D CRISPR-associated helicase Cas3'
+type I-D CRISPR-associated protein Cas5/Csc1
+type I-D CRISPR-associated protein Cas7/Csc2
+hypothetical protein
+type I-A CRISPR-associated protein Cas4/Csa1
+hypothetical protein
+type I-D CRISPR-associated helicase Cas3'
+type I-D CRISPR-associated protein Cas5/Csc1
+type I-D CRISPR-associated protein Cas7/Csc2
+hypothetical protein
+hypothetical protein
+type I-D CRISPR-associated helicase Cas3'
+type I-D CRISPR-associated protein Cas5/Csc1
+type I-D CRISPR-associated protein Cas7/Csc2
+hypothetical protein
+hypothetical protein
+hypothetical protein
+GTP-binding protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+electron transfer flavoprotein subunit beta
+electron transfer flavoprotein subunit alpha
+DUF1931 domain-containing protein
+hypothetical protein
+hypothetical protein
+ABC transporter ATP-binding protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+ornithine carbamoyltransferase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+phenylalanine--tRNA ligase subunit alpha
+peptide chain release factor 1
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+TIGR03986 family CRISPR-associated RAMP protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+TIGR03986 family CRISPR-associated RAMP protein
+helicase
+hypothetical protein
+DNA methylase
+AAA family ATPase
+hypothetical protein
+TIGR03984 family CRISPR-associated protein
+TIGR03986 family CRISPR-associated RAMP protein
+hypothetical protein
+hypothetical protein
+CRISPR-associated protein Cas4
+CRISPR-associated endonuclease Cas2
+CRISPR-associated endonuclease Cas1
+hypothetical protein
+CRISPR-associated protein Cas4
+CRISPR-associated endonuclease Cas2
+CRISPR-associated endonuclease Cas1
+hypothetical protein
+CRISPR-associated protein Cas4
+CRISPR-associated endonuclease Cas2
+CRISPR-associated endonuclease Cas1
+hypothetical protein
+CRISPR-associated protein Cas4
+CRISPR-associated endonuclease Cas2
+CRISPR-associated endonuclease Cas1
+hypothetical protein
+hypothetical protein
+type I-D CRISPR-associated protein Cas7/Csc2
+type I-D CRISPR-associated protein Cas5/Csc1
+hypothetical protein
+hypothetical protein
+type I-D CRISPR-associated protein Cas7/Csc2
+type I-D CRISPR-associated protein Cas5/Csc1
+hypothetical protein
+hypothetical protein
+hypothetical protein
+type III-B CRISPR module RAMP protein Cmr4
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+type III-B CRISPR module RAMP protein Cmr4
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+type III-B CRISPR module RAMP protein Cmr4
+hypothetical protein
+hypothetical protein
+hypothetical protein
+type III-B CRISPR module RAMP protein Cmr4
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+type III-B CRISPR module RAMP protein Cmr4
+type III-B CRISPR module-associated protein Cmr5
+type III-B CRISPR module RAMP protein Cmr6
+hypothetical protein
+type III-B CRISPR module RAMP protein Cmr4
+type III-B CRISPR module-associated protein Cmr5
+type III-B CRISPR module RAMP protein Cmr6
+hypothetical protein
+type III-B CRISPR module RAMP protein Cmr4
+type III-B CRISPR module-associated protein Cmr5
+type III-B CRISPR module RAMP protein Cmr6
+hypothetical protein
+type III-B CRISPR module RAMP protein Cmr4
+type III-B CRISPR module-associated protein Cmr5
+type III-B CRISPR module RAMP protein Cmr6
+hypothetical protein
+type I-B CRISPR-associated protein Cas5
+hypothetical protein
+hypothetical protein
+type I-B CRISPR-associated protein Cas5
+hypothetical protein
+CRISPR-associated endonuclease Cas1
+CRISPR-associated endonuclease Cas2
+hypothetical protein
+hypothetical protein
+CRISPR-associated endonuclease Cas1
+CRISPR-associated endonuclease Cas2
+hypothetical protein
+hypothetical protein
+CRISPR-associated endonuclease Cas1
+CRISPR-associated endonuclease Cas2
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+type I-B CRISPR-associated protein Cas7/Cst2/DevR
+type I-B CRISPR-associated protein Cas8b1/Cst1
+CRISPR-associated endoribonuclease Cas6
+type I-B CRISPR-associated protein Cas7/Cst2/DevR
+type I-B CRISPR-associated protein Cas8b1/Cst1
+CRISPR-associated endoribonuclease Cas6
+type I-B CRISPR-associated protein Cas7/Cst2/DevR
+type I-B CRISPR-associated protein Cas8b1/Cst1
+CRISPR-associated endoribonuclease Cas6
+type III-B CRISPR module RAMP protein Cmr1
+hypothetical protein
+hypothetical protein
+hypothetical protein
+replication factor C small subunit
+hypothetical protein
+Minichromosome maintenance protein MCM
+extensin
+histone deacetylase
+tRNA-Pro
+RNA 2',3'-cyclic phosphodiesterase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+GTP-binding protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hydrogenase accessory protein HypB
+hypothetical protein
+gamma carbonic anhydrase family protein
+hypothetical protein
+hypothetical protein
+helicase
+hypothetical protein
+TIGR01210 family radical SAM protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+type III-B CRISPR module RAMP protein Cmr1
+type III-B CRISPR-associated protein Cas10/Cmr2
+type III-B CRISPR module-associated protein Cmr3
+type III-B CRISPR module RAMP protein Cmr4
+hypothetical protein
+type III-B CRISPR module RAMP protein Cmr1
+type III-B CRISPR-associated protein Cas10/Cmr2
+type III-B CRISPR module-associated protein Cmr3
+type III-B CRISPR module RAMP protein Cmr4
+hypothetical protein
+hypothetical protein
+type III-B CRISPR module RAMP protein Cmr1
+type III-B CRISPR-associated protein Cas10/Cmr2
+type III-B CRISPR module-associated protein Cmr3
+type III-B CRISPR module RAMP protein Cmr4
+hypothetical protein
+hypothetical protein
+type III-B CRISPR module-associated protein Cmr5
+type III-B CRISPR module RAMP protein Cmr4
+hypothetical protein
+hypothetical protein
+type III-B CRISPR module-associated protein Cmr5
+type III-B CRISPR module RAMP protein Cmr6
+TIGR02221 family CRISPR-associated protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+type III-B CRISPR module-associated protein Cmr5
+type III-B CRISPR module RAMP protein Cmr6
+TIGR02221 family CRISPR-associated protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+type III-B CRISPR module-associated protein Cmr5
+type III-B CRISPR module RAMP protein Cmr6
+TIGR02221 family CRISPR-associated protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+CRISPR-associated endoribonuclease Cas6
+type I-B CRISPR-associated protein Cas8b1/Cst1
+hypothetical protein
+hypothetical protein
+hypothetical protein
+CRISPR-associated endoribonuclease Cas6
+type I-B CRISPR-associated protein Cas8b1/Cst1
+type I-B CRISPR-associated protein Cas7/Cst2/DevR
+hypothetical protein
+hypothetical protein
+CRISPR-associated endoribonuclease Cas6
+type I-B CRISPR-associated protein Cas8b1/Cst1
+type I-B CRISPR-associated protein Cas7/Cst2/DevR
+hypothetical protein
+CRISPR-associated endoribonuclease Cas6
+type I-B CRISPR-associated protein Cas8b1/Cst1
+type I-B CRISPR-associated protein Cas7/Cst2/DevR
+GTPase
+phosphoribosylamine--glycine ligase
+orotate phosphoribosyltransferase
+hypothetical protein
+CRISPR-associated endonuclease Cas2
+subtype I-B CRISPR-associated endonuclease Cas1
+CRISPR-associated protein Cas4
+hypothetical protein
+CRISPR-associated endonuclease Cas2
+subtype I-B CRISPR-associated endonuclease Cas1
+CRISPR-associated protein Cas4
+hypothetical protein
+hypothetical protein
+CRISPR-associated endonuclease Cas2
+subtype I-B CRISPR-associated endonuclease Cas1
+CRISPR-associated protein Cas4
+hypothetical protein
+hypothetical protein
+CRISPR-associated endonuclease Cas2
+subtype I-B CRISPR-associated endonuclease Cas1
+CRISPR-associated protein Cas4
+hypothetical protein
+hypothetical protein
+hypothetical protein
+type I-D CRISPR-associated helicase Cas3'
+type I-D CRISPR-associated protein Cas5/Csc1
+type I-D CRISPR-associated protein Cas7/Csc2
+hypothetical protein
+type I-D CRISPR-associated helicase Cas3'
+type I-D CRISPR-associated protein Cas5/Csc1
+type I-D CRISPR-associated protein Cas7/Csc2
+hypothetical protein
+type I-D CRISPR-associated helicase Cas3'
+type I-D CRISPR-associated protein Cas5/Csc1
+type I-D CRISPR-associated protein Cas7/Csc2
+hypothetical protein
+type I-D CRISPR-associated helicase Cas3'
+type I-D CRISPR-associated protein Cas5/Csc1
+type I-D CRISPR-associated protein Cas7/Csc2
+hypothetical protein
+type I-B CRISPR-associated protein Cas7/Cst2/DevR
+CRISPR-associated protein Cas5
+CRISPR-associated endonuclease Cas3''
+hypothetical protein
+type I-B CRISPR-associated protein Cas7/Cst2/DevR
+CRISPR-associated protein Cas5
+CRISPR-associated endonuclease Cas3''
+hypothetical protein
+type I-B CRISPR-associated protein Cas7/Cst2/DevR
+CRISPR-associated protein Cas5
+CRISPR-associated endonuclease Cas3''
+hypothetical protein
+CRISPR-associated helicase/endonuclease Cas3
+CRISPR-associated protein Cas4
+hypothetical protein
+CRISPR-associated helicase/endonuclease Cas3
+CRISPR-associated protein Cas4
+hypothetical protein
+CRISPR-associated helicase/endonuclease Cas3
+CRISPR-associated protein Cas4
+hypothetical protein
+hypothetical protein
+hypothetical protein
+type I-C CRISPR-associated protein Cas7/Csd2
+CRISPR-associated protein Cas4
+subtype I-C CRISPR-associated endonuclease Cas1
+CRISPR-associated endonuclease Cas2
+type I-C CRISPR-associated protein Cas7/Csd2
+CRISPR-associated protein Cas4
+subtype I-C CRISPR-associated endonuclease Cas1
+CRISPR-associated endonuclease Cas2
+type I-C CRISPR-associated protein Cas7/Csd2
+CRISPR-associated protein Cas4
+subtype I-C CRISPR-associated endonuclease Cas1
+CRISPR-associated endonuclease Cas2
+type I-C CRISPR-associated protein Cas7/Csd2
+CRISPR-associated protein Cas4
+subtype I-C CRISPR-associated endonuclease Cas1
+CRISPR-associated endonuclease Cas2
+phosphohydrolase
+CRISPR-associated protein
+CRISPR-associated RAMP protein Csx10
+phosphohydrolase
+CRISPR-associated protein
+CRISPR-associated RAMP protein Csx10
+phosphohydrolase
+CRISPR-associated protein
+CRISPR-associated RAMP protein Csx10
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+transcription-repair coupling factor
+phosphoglycerate dehydrogenase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+type III-B CRISPR-associated protein Cas10/Cmr2
+CRISPR-associated protein Cas4
+subtype I-B CRISPR-associated endonuclease Cas1
+CRISPR-associated endonuclease Cas2
+CRISPR-associated protein Cas4
+subtype I-B CRISPR-associated endonuclease Cas1
+CRISPR-associated endonuclease Cas2
+CRISPR-associated protein Cas4
+subtype I-B CRISPR-associated endonuclease Cas1
+CRISPR-associated endonuclease Cas2
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+GTP-binding protein
+hypothetical protein
+hypothetical protein
+phenylalanine--tRNA ligase subunit alpha
+peptide chain release factor 1
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+RNA helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+type I-D CRISPR-associated protein Cas5/Csc1
+type I-D CRISPR-associated helicase Cas3'
+hypothetical protein
+type I-A CRISPR-associated protein Cas4/Csa1
+type I-D CRISPR-associated protein Cas5/Csc1
+type I-D CRISPR-associated helicase Cas3'
+hypothetical protein
+type I-A CRISPR-associated protein Cas4/Csa1
+hypothetical protein
+type I-D CRISPR-associated protein Cas5/Csc1
+type I-D CRISPR-associated helicase Cas3'
+hypothetical protein
+type I-A CRISPR-associated protein Cas4/Csa1
+hypothetical protein
+hypothetical protein
+type I-D CRISPR-associated protein Cas5/Csc1
+type I-D CRISPR-associated helicase Cas3'
+hypothetical protein
+type I-A CRISPR-associated protein Cas4/Csa1
+hypothetical protein
+hypothetical protein
+type I-D CRISPR-associated helicase Cas3'
+hypothetical protein
+type I-A CRISPR-associated protein Cas4/Csa1
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+type III-B CRISPR module-associated protein Cmr5
+type III-B CRISPR module RAMP protein Cmr4
+type III-B CRISPR module-associated protein Cmr3
+type III-B CRISPR-associated protein Cas10/Cmr2
+type III-B CRISPR module-associated protein Cmr5
+type III-B CRISPR module RAMP protein Cmr4
+type III-B CRISPR module-associated protein Cmr3
+type III-B CRISPR-associated protein Cas10/Cmr2
+hypothetical protein
+type III-B CRISPR module-associated protein Cmr5
+type III-B CRISPR module RAMP protein Cmr4
+type III-B CRISPR module-associated protein Cmr3
+type III-B CRISPR-associated protein Cas10/Cmr2
+hypothetical protein
+type III-B CRISPR module-associated protein Cmr5
+type III-B CRISPR module RAMP protein Cmr4
+type III-B CRISPR module-associated protein Cmr3
+type III-B CRISPR-associated protein Cas10/Cmr2
+hypothetical protein
+methylmalonyl-CoA carboxyltransferase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+CRISPR-associated endonuclease Cas3''
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+arsenate reductase ArsC
+permease
+ArsR family transcriptional regulator
+ArsR family transcriptional regulator
+cobalt transporter
+hypothetical protein
+tRNA-Glu
+ribosome biogenesis/translation initiation ATPase RLI
+hypothetical protein
+CRISPR-associated protein Cas4
+hypothetical protein
+hypothetical protein
+hypothetical protein
+phosphoribosylaminoimidazolesuccinocarboxamide synthase
+methionine--tRNA ligase
+plasmid stabilization protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+Minichromosome maintenance protein MCM
+hypothetical protein
+bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+excinuclease ABC subunit B
+excinuclease ABC subunit UvrA
+hypothetical protein
+hypothetical protein
+tRNA-Leu
+multidrug ABC transporter ATP-binding protein
+hypothetical protein
+hypothetical protein
+DNA alkylation repair protein
+hypothetical protein
+DNA alkylation repair protein
+hypothetical protein
+tRNA-Gln
+hypothetical protein
+type I-E CRISPR-associated protein Cse1/CasA
+type I-E CRISPR-associated protein Cse2/CasB
+type I-E CRISPR-associated protein Cas7/Cse4/CasC
+hypothetical protein
+type I-E CRISPR-associated protein Cse1/CasA
+type I-E CRISPR-associated protein Cse2/CasB
+type I-E CRISPR-associated protein Cas7/Cse4/CasC
+type I-E CRISPR-associated protein Cas5/CasD
+hypothetical protein
+type I-E CRISPR-associated protein Cse1/CasA
+type I-E CRISPR-associated protein Cse2/CasB
+type I-E CRISPR-associated protein Cas7/Cse4/CasC
+type I-E CRISPR-associated protein Cas5/CasD
+type I-E CRISPR-associated protein Cse1/CasA
+type I-E CRISPR-associated protein Cse2/CasB
+type I-E CRISPR-associated protein Cas7/Cse4/CasC
+type I-E CRISPR-associated protein Cas5/CasD
+hypothetical protein
+hypothetical protein
+hypothetical protein
+ATP-dependent helicase
+2-oxoacid ferredoxin oxidoreductase
+2-oxoacid:acceptor oxidoreductase subunit alpha
+rubredoxin
+Lrp/AsnC family transcriptional regulator
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+excinuclease ABC subunit A
+hypothetical protein
+DNA polymerase IV
+helicase
+GTP-binding protein
+hypothetical protein
+pyruvate formate lyase-activating protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+type III-A CRISPR-associated protein Csm2
+type III-A CRISPR-associated protein Cas10/Csm1
+type III-A CRISPR-associated protein Csm2
+type III-A CRISPR-associated protein Cas10/Csm1
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+RNA helicase
+hypothetical protein
+type I-E CRISPR-associated protein Cse1/CasA
+type I-E CRISPR-associated protein Cse2/CasB
+hypothetical protein
+hypothetical protein
+hypothetical protein
+RNA helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+CRISPR-associated protein Cas4
+CRISPR-associated endonuclease Cas2
+CRISPR-associated endonuclease Cas1
+hypothetical protein
+CRISPR-associated protein Cas4
+CRISPR-associated endonuclease Cas2
+CRISPR-associated endonuclease Cas1
+hypothetical protein
+hypothetical protein
+CRISPR-associated protein Cas4
+CRISPR-associated endonuclease Cas2
+CRISPR-associated endonuclease Cas1
+hypothetical protein
+hypothetical protein
+50S ribosomal protein L14e
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+helicase
+DNA polymerase IV
+hypothetical protein
+pseudouridine synthase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+DEAD/DEAH box helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+adenylosuccinate lyase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+peptidase M15
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+translation initiation factor IF-5A
+glutamine--fructose-6-phosphate aminotransferase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+metallophosphoesterase
+hypothetical protein
+DEAD/DEAH box helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+ECF transporter S component
+hypothetical protein
+hypothetical protein
+DEAD/DEAH box helicase
+hypothetical protein
+TGS domain-containing protein
+hypothetical protein
+LysR family transcriptional regulator
+hypothetical protein
+hypothetical protein
+DEAD/DEAH box helicase
+aldehyde ferredoxin oxidoreductase
+DEAD/DEAH box helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+TIGR00341 family protein
+hypothetical protein
+ArsR family transcriptional regulator
+tetratricopeptide repeat protein
+response regulator
+response regulator
+MarR family transcriptional regulator
+MBL fold metallo-hydrolase
+GNAT family N-acetyltransferase
+ArsR family transcriptional regulator
+hypothetical protein
+AMP-dependent synthetase
+cupin domain-containing protein
+TraB family protein
+hydrogenase nickel incorporation protein HypB
+hypothetical protein
+ArsR family transcriptional regulator
+hypothetical protein
+hypothetical protein
+hypothetical protein
+GTP-binding protein EngB
+DEAD/DEAH box helicase
+hypothetical protein
+hypothetical protein
+aminotransferase class V-fold PLP-dependent enzyme
+aldehyde ferredoxin oxidoreductase
+deoxyribose-phosphate aldolase
+hypothetical protein
+DEAD/DEAH box helicase
+ArsR family transcriptional regulator
+MarR family transcriptional regulator
+glucose-1-phosphate thymidylyltransferase
+replication factor C small subunit
+hypothetical protein
+minichromosome maintenance protein MCM
+DEAD/DEAH box helicase
+histone deacetylase
+tRNA-Pro
+RNA 2',3'-cyclic phosphodiesterase
+DEAD/DEAH box helicase
+hypothetical protein
+DUF131 domain-containing protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hydrogenase nickel incorporation protein HypB
+hypothetical protein
+DEAD/DEAH box helicase
+hypothetical protein
+DUF131 domain-containing protein
+hypothetical protein
+DEAD/DEAH box helicase
+Minichromosome maintenance protein MCM
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+DEAD/DEAH box helicase
+hypothetical protein
+DEAD/DEAH box helicase
+glycerol-3-phosphate acyltransferase
+DegV family protein
+hypothetical protein
+hypothetical protein
+anaerobic ribonucleoside-triphosphate reductase
+glutamine--fructose-6-phosphate transaminase (isomerizing)
+S-layer protein
+YkgJ family cysteine cluster protein
+glycine--tRNA ligase
+DNA-directed RNA polymerase subunit P
+hypothetical protein
+CBS domain-containing protein
+rhodanese-like domain-containing protein
+hypothetical protein
+CBS domain-containing protein
+rhodanese-like domain-containing protein
+hypothetical protein
+DEAD/DEAH box helicase
+MFS transporter
+hypothetical protein
+HAD family hydrolase
+hypothetical protein
+DEAD/DEAH box helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+adenylosuccinate lyase
+hypothetical protein
+DegV family EDD domain-containing protein
+ATP-dependent DNA helicase
+minichromosome maintenance protein MCM
+DNA replication complex GINS family protein
+ORC1-type DNA replication protein
+ribose 5-phosphate isomerase A
+tRNA-intron lyase
+excinuclease ABC subunit UvrB
+hypothetical protein
+dodecin domain-containing protein
+hypothetical protein
+elongation factor 1-alpha
+hypothetical protein
+hypothetical protein
+DEAD/DEAH box helicase
+class I SAM-dependent methyltransferase
+ParM/StbA family protein
+hypothetical protein
+excinuclease ABC subunit UvrA
+excinuclease ABC subunit B
+hypothetical protein
+hypothetical protein
+hypothetical protein
+DEAD/DEAH box helicase
+MBL fold metallo-hydrolase
+zinc ribbon domain-containing protein
+hypothetical protein
+hypothetical protein
+SAM-dependent DNA methyltransferase
+DEAD/DEAH box helicase
+hypothetical protein
+PAS domain S-box protein
+hypothetical protein
+hypothetical protein
+GTP-binding protein
+GTP-binding protein
+GTP-binding protein
+GTP-binding protein
+DEAD/DEAH box helicase
+hypothetical protein
+carbohydrate kinase
+hypothetical protein
+hypothetical protein
+DEAD/DEAH box helicase
+TGS domain-containing protein
+hypothetical protein
+DNA-directed RNA polymerase subunit K
+tRNA-OTHER
+DEAD/DEAH box helicase
+GTP-binding protein
+SDR family oxidoreductase
+DUF1616 domain-containing protein
+hypothetical protein
+ArsR family transcriptional regulator
+RNA-binding protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+DEAD/DEAH box helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+ATP-dependent helicase
+N-acetyltransferase
+hypothetical protein
+GTP-binding protein
+hypothetical protein
+LysR family transcriptional regulator
+hypothetical protein
+DEAD/DEAH box helicase
+mucoidy inhibitor MuiA family protein
+hypothetical protein
+HAMP domain-containing histidine kinase
+DEAD/DEAH box helicase
+glycine--tRNA ligase
+YkgJ family cysteine cluster protein
+ArsR family transcriptional regulator
+glutamine--fructose-6-phosphate transaminase (isomerizing)
+anaerobic ribonucleoside-triphosphate reductase
+hypothetical protein
+hypothetical protein
+SagB/ThcOx family dehydrogenase
+hypothetical protein
+hypothetical protein
+ATP-dependent helicase
+DUF790 family protein
+hypothetical protein
+hypothetical protein
+DEAD/DEAH box helicase
+hypothetical protein
+rhodanese-like domain-containing protein
+type II toxin-antitoxin system RelE/ParE family toxin
+hypothetical protein
+hypothetical protein
+ECF transporter S component
+threonine synthase
+DEAD/DEAH box helicase
+hypothetical protein
+ribose 5-phosphate isomerase A
+5-(carboxyamino)imidazole ribonucleotide mutase
+winged helix-turn-helix transcriptional regulator
+ABC transporter ATP-binding protein
+MaoC family dehydratase
+ROK family protein
+ribbon-helix-helix protein, CopG family
+Lrp/AsnC family transcriptional regulator
+CoB--CoM heterodisulfide reductase iron-sulfur subunit A family protein
+CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6
+CRISPR-associated protein Cas4
+CRISPR-associated endonuclease Cas2
+CRISPR-associated endonuclease Cas1
+CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6
+CRISPR-associated protein Cas4
+CRISPR-associated endonuclease Cas2
+CRISPR-associated endonuclease Cas1
+DUF2797 domain-containing protein
+CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6
+CRISPR-associated protein Cas4
+CRISPR-associated endonuclease Cas2
+CRISPR-associated endonuclease Cas1
+DUF2797 domain-containing protein
+hypothetical protein
+CRISPR system precrRNA processing endoribonuclease RAMP protein Cas6
+CRISPR-associated protein Cas4
+CRISPR-associated endonuclease Cas2
+CRISPR-associated endonuclease Cas1
+DUF2797 domain-containing protein
+hypothetical protein
+radical SAM protein
+ArsR family transcriptional regulator
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+DEAD/DEAH box helicase
+replication factor C small subunit
+hypothetical protein
+minichromosome maintenance protein MCM
+DEAD/DEAH box helicase
+histone deacetylase
+RNA 2',3'-cyclic phosphodiesterase
+flagellar hook-basal body complex protein FliE
+hypothetical protein
+hypothetical protein
+hypothetical protein
+DEAD/DEAH box helicase
+acyl-CoA dehydrogenase
+DEAD/DEAH box helicase
+adenylate kinase
+hypothetical protein
+tetratricopeptide repeat protein
+DEAD/DEAH box helicase
+MBL fold metallo-hydrolase
+hypothetical protein
+hypothetical protein
+DEAD/DEAH box helicase
+hypothetical protein
+hypothetical protein
+excinuclease ABC subunit UvrB
+excinuclease ABC subunit UvrA
+hypothetical protein
+hypothetical protein
+DEAD/DEAH box helicase
+tRNA-Val
+GNAT family N-acetyltransferase
+DUF711 family protein
+type II toxin-antitoxin system RelE/ParE family toxin
+DEAD/DEAH box helicase
+hypothetical protein
+TGS domain-containing protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+aldehyde dehydrogenase family protein
+DEAD/DEAH box helicase
+HAMP domain-containing histidine kinase
+hypothetical protein
+hypothetical protein
+TIGR00341 family protein
+hypothetical protein
+ArsR family transcriptional regulator
+hypothetical protein
+response regulator
+DEAD/DEAH box helicase
+DUF131 domain-containing protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+DEAD/DEAH box helicase
+hypothetical protein
+DUF131 domain-containing protein
+hypothetical protein
+DEAD/DEAH box helicase
+gamma carbonic anhydrase family protein
+thioredoxin
+thioredoxin
+DEAD/DEAH box helicase
+DNA-3-methyladenine glycosylase 2 family protein
+hypothetical protein
+MarR family transcriptional regulator
+winged helix-turn-helix transcriptional regulator
+hypothetical protein
+iron-sulfur cluster assembly scaffold protein
+cysteine desulfurase
+phosphoadenosine phosphosulfate reductase
+deoxyribose-phosphate aldolase
+hypothetical protein
+DEAD/DEAH box helicase
+hypothetical protein
+gamma carbonic anhydrase family protein
+thioredoxin
+thioredoxin
+DEAD/DEAH box helicase
+hypothetical protein
+DEAD/DEAH box helicase
+hypothetical protein
+homoserine dehydrogenase
+glycerophosphodiester phosphodiesterase family protein
+cation-translocating P-type ATPase
+ZIP family metal transporter
+metal-dependent transcriptional regulator
+ZIP family metal transporter
+hypothetical protein
+excinuclease ABC subunit UvrB
+excinuclease ABC subunit UvrA
+translation initiation factor IF-2
+ArsR family transcriptional regulator
+AAA family ATPase
+hypothetical protein
+aminotransferase class III-fold pyridoxal phosphate-dependent enzyme
+CoA-binding protein
+NAD(P)-dependent oxidoreductase
+DEAD/DEAH box helicase
+(Fe-S)-binding protein
+FAD-binding oxidoreductase
+FAD-binding oxidoreductase
+DEAD/DEAH box helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+DEAD/DEAH box helicase
+hypothetical protein
+DEAD/DEAH box helicase
+amidohydrolase
+hypothetical protein
+N-acetyltransferase
+DEAD/DEAH box helicase
+hypothetical protein
+hypothetical protein
+CHAT domain-containing protein
+MFS transporter
+DUF3830 family protein
+hypothetical protein
+hypothetical protein
+4Fe-4S ferredoxin
+CoB--CoM heterodisulfide reductase iron-sulfur subunit A family protein
+hydrogenase iron-sulfur subunit
+SagB/ThcOx family dehydrogenase
+hypothetical protein
+hypothetical protein
+acyl-CoA dehydrogenase
+DEAD/DEAH box helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+diphthine--ammonia ligase
+hypothetical protein
+DEAD/DEAH box helicase
+MBL fold metallo-hydrolase
+DEAD/DEAH box helicase
+hypothetical protein
+NAD-dependent epimerase/dehydratase family protein
+GTP-binding protein
+DEAD/DEAH box helicase
+tRNA-Val
+DUF1616 domain-containing protein
+SDR family oxidoreductase
+GTP-binding protein
+DEAD/DEAH box helicase
+DNA-directed RNA polymerase subunit K
+diphthine--ammonia ligase
+formamidopyrimidine-DNA glycosylase
+hypothetical protein
+DEAD/DEAH box helicase
+hypothetical protein
+cytoplasmic protein
+site-specific DNA-methyltransferase
+DEAD/DEAH box helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+site-specific DNA-methyltransferase
+MBL fold metallo-hydrolase
+hypothetical protein
+DEAD/DEAH box helicase
+Lrp/AsnC family transcriptional regulator
+hypothetical protein
+hypothetical protein
+YIP1 family protein
+hypothetical protein
+hypothetical protein
+MarR family transcriptional regulator
+hypothetical protein
+hydrogenase accessory protein HypB
+hypothetical protein
+glucose-1-phosphate thymidylyltransferase
+MarR family transcriptional regulator
+ArsR family transcriptional regulator
+DEAD/DEAH box helicase
+hypothetical protein
+deoxyribose-phosphate aldolase
+3'-phosphoadenosine 5'-phosphosulfate sulfotransferase
+hypothetical protein
+hypothetical protein
+transglutaminase domain-containing protein
+hypothetical protein
+hypothetical protein
+phenylalanine--tRNA ligase subunit alpha
+peptide chain release factor 1
+hypothetical protein
+hypothetical protein
+hypothetical protein
+DedA family protein
+hypothetical protein
+gamma carbonic anhydrase family protein
+thioredoxin
+thioredoxin
+DEAD/DEAH box helicase
+hypothetical protein
+TIGR01210 family radical SAM protein
+hypothetical protein
+FprA family A-type flavoprotein
+hypothetical protein
+ArsR family transcriptional regulator
+hypothetical protein
+DUF1028 domain-containing protein
+O-phospho-L-seryl-tRNA:Cys-tRNA synthase
+GNAT family N-acetyltransferase
+GNAT family N-acetyltransferase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+DEAD/DEAH box helicase
+hypothetical protein
+N-acetyltransferase
+FRG domain-containing protein
+hydrogenase iron-sulfur subunit
+CoB--CoM heterodisulfide reductase iron-sulfur subunit A family protein
+HEAT repeat domain-containing protein
+Lrp/AsnC family transcriptional regulator
+glycine cleavage system aminomethyltransferase GcvT
+glycine cleavage system protein GcvH
+aminomethyl-transferring glycine dehydrogenase subunit GcvPA
+hypothetical protein
+nucleotidyltransferase family protein
+hypothetical protein
+ArsR family transcriptional regulator
+hypothetical protein
+hypothetical protein
+MFS transporter
+MBL fold metallo-hydrolase
+DUF4976 domain-containing protein
+hypothetical protein
+hypothetical protein
+alpha/beta hydrolase
+hypothetical protein
+hypothetical protein
+DUF790 family protein
+DEAD/DEAH box helicase
+hypothetical protein
+PIN domain-containing protein
+hypothetical protein
+DEAD/DEAH box helicase
+TGS domain-containing protein
+hypothetical protein
+NADH-quinone oxidoreductase subunit C
+NADH-quinone oxidoreductase subunit B
+DEAD/DEAH box helicase
+hypothetical protein
+hypothetical protein
+LysR family transcriptional regulator
+DNA/RNA nuclease SfsA
+hypothetical protein
+hypothetical protein
+ArsR family transcriptional regulator
+Lrp/AsnC family transcriptional regulator
+tetratricopeptide repeat protein
+hypothetical protein
+isoprenylcysteine carboxylmethyltransferase family protein
+DEAD/DEAH box helicase
+cold-shock protein
+Lrp/AsnC family transcriptional regulator
+hypothetical protein
+helix-hairpin-helix domain-containing protein
+hypothetical protein
+hypothetical protein
+DEAD/DEAH box helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+DNA repair and recombination protein RadA
+DEAD/DEAH box helicase
+hypothetical protein
+ABC transporter permease
+ATP-binding cassette domain-containing protein
+winged helix-turn-helix transcriptional regulator
+hypothetical protein
+CDP-alcohol phosphatidyltransferase family protein
+30S ribosomal protein S26e
+DUF3830 family protein
+hypothetical protein
+hypothetical protein
+sulfotransferase
+hypothetical protein
+DEAD/DEAH box helicase
+hypothetical protein
+MFS transporter
+hypothetical protein
+phosphoribosylglycinamide formyltransferase
+elongation factor EF-2
+tRNA-Gly
+DEAD/DEAH box helicase
+DUF998 domain-containing protein
+DUF998 domain-containing protein
+hypothetical protein
+bifunctional nicotinamidase/pyrazinamidase
+hypothetical protein
+DUF998 domain-containing protein
+DEAD/DEAH box helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+carbohydrate kinase
+hypothetical protein
+TonB system transport protein TonB
+DEAD/DEAH box helicase
+hypothetical protein
+class I SAM-dependent methyltransferase
+hypothetical protein
+hypothetical protein
+TGS domain-containing protein
+hypothetical protein
+DEAD/DEAH box helicase
+hypothetical protein
+4Fe-4S ferredoxin
+tetratricopeptide repeat protein
+MBL fold metallo-hydrolase
+DEAD/DEAH box helicase
+hypothetical protein
+aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme
+(Fe-S)-binding protein
+hypothetical protein
+hypothetical protein
+ArsR family transcriptional regulator
+hypothetical protein
+hypothetical protein
+hypothetical protein
+NAD-dependent epimerase/dehydratase family protein
+GTP-binding protein
+hypothetical protein
+DEAD/DEAH box helicase
+tRNA-Val
+DNA-directed RNA polymerase subunit K
+hypothetical protein
+hypothetical protein
+hypothetical protein
+excinuclease ABC subunit UvrA
+excinuclease ABC subunit UvrB
+hypothetical protein
+tRNA pseudouridine(38-40) synthase TruA
+replication factor C small subunit
+AsnC family protein
+hypothetical protein
+ArsR family transcriptional regulator
+hypothetical protein
+response regulator
+PAS domain S-box protein
+hypothetical protein
+S-methyl-5-thioribose-1-phosphate isomerase
+HesA/MoeB/ThiF family protein
+DEAD/DEAH box helicase
+hypothetical protein
+HAD-IIA family hydrolase
+hypothetical protein
+DEAD/DEAH box helicase
+TetR/AcrR family transcriptional regulator
+type 1 glutamine amidotransferase domain-containing protein
+MBL fold metallo-hydrolase
+hypothetical protein
+hypothetical protein
+tRNA-Thr
+hypothetical protein
+hypothetical protein
+hypothetical protein
+arginine decarboxylase, pyruvoyl-dependent
+DEAD/DEAH box helicase
+hypothetical protein
+bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase
+hypothetical protein
+TGS domain-containing protein
+DEAD/DEAH box helicase
+hypothetical protein
+hypothetical protein
+PAS domain-containing sensor histidine kinase
+replication factor C small subunit
+tRNA pseudouridine(38-40) synthase TruA
+hypothetical protein
+excinuclease ABC subunit UvrB
+excinuclease ABC subunit A
+ribbon-helix-helix protein, CopG family
+ArsR family transcriptional regulator
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+DEAD/DEAH box helicase
+DUF1922 domain-containing protein
+hypothetical protein
+hypothetical protein
+DEAD/DEAH box helicase
+thioredoxin
+thioredoxin
+gamma carbonic anhydrase family protein
+50S ribosomal protein L29
+ribonuclease P protein subunit
+valine--tRNA ligase
+DEAD/DEAH box helicase
+hypothetical protein
+hypothetical protein
+beta-CASP ribonuclease aCPSF1
+DUF1947 domain-containing protein
+ArsR family transcriptional regulator
+hypothetical protein
+hypothetical protein
+zinc-ribbon domain-containing protein
+DEAD/DEAH box helicase
+GTP-binding protein
+hypothetical protein
+GNAT family N-acetyltransferase
+DEAD/DEAH box helicase
+hypothetical protein
+DEAD/DEAH box helicase
+ArsR family transcriptional regulator
+uracil-DNA glycosylase
+GTP-binding protein
+GNAT family N-acetyltransferase
+xylulose kinase
+hypothetical protein
+DEAD/DEAH box helicase
+hypothetical protein
+hypothetical protein
+AAA family ATPase
+HTH domain-containing protein
+hypothetical protein
+4Fe-4S dicluster domain-containing protein
+hypothetical protein
+DEAD/DEAH box helicase
+MBL fold metallo-hydrolase
+radical SAM protein
+hypothetical protein
+PAS domain-containing sensor histidine kinase
+hypothetical protein
+hypothetical protein
+DEAD/DEAH box helicase
+TGS domain-containing protein
+hypothetical protein
+bifunctional 5,10-methylenetetrahydrofolate dehydrogenase/5,10-methenyltetrahydrofolate cyclohydrolase
+hypothetical protein
+DEAD/DEAH box helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+type III-A CRISPR-associated protein Cas10/Csm1
+type III-A CRISPR-associated protein Csm2
+type III-A CRISPR-associated RAMP protein Csm3
+type III-A CRISPR-associated RAMP protein Csm4
+hypothetical protein
+hypothetical protein
+type III-A CRISPR-associated protein Cas10/Csm1
+type III-A CRISPR-associated protein Csm2
+type III-A CRISPR-associated RAMP protein Csm3
+type III-A CRISPR-associated RAMP protein Csm4
+type III-A CRISPR-associated RAMP protein Csm5
+hypothetical protein
+type III-A CRISPR-associated protein Cas10/Csm1
+type III-A CRISPR-associated protein Csm2
+type III-A CRISPR-associated RAMP protein Csm3
+type III-A CRISPR-associated RAMP protein Csm4
+type III-A CRISPR-associated RAMP protein Csm5
+hypothetical protein
+type III-A CRISPR-associated protein Cas10/Csm1
+type III-A CRISPR-associated protein Csm2
+type III-A CRISPR-associated RAMP protein Csm3
+type III-A CRISPR-associated RAMP protein Csm4
+type III-A CRISPR-associated RAMP protein Csm5
+hypothetical protein
+hypothetical protein
+type III-A CRISPR-associated protein Csm2
+type III-A CRISPR-associated RAMP protein Csm3
+type III-A CRISPR-associated RAMP protein Csm4
+type III-A CRISPR-associated RAMP protein Csm5
+hypothetical protein
+hypothetical protein
+type III-A CRISPR-associated RAMP protein Csm4
+type III-A CRISPR-associated RAMP protein Csm5
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+RNA helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+alpha-glucosidase/alpha-galactosidase
+GTP-binding protein
+hypothetical protein
+aspartate aminotransferase family protein
+DEAD/DEAH box helicase
+DNA-directed RNA polymerase subunit K
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+Replication factor C small subunit
+tRNA pseudouridine(38-40) synthase TruA
+hypothetical protein
+excinuclease ABC subunit B
+hypothetical protein
+hypothetical protein
+hypothetical protein
+bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/5,10-methylene-tetrahydrofolate cyclohydrolase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+Replication factor C small subunit
+hypothetical protein
+hypothetical protein
+excinuclease ABC subunit B
+excinuclease ABC subunit A
+translation initiation factor IF-2
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+DEAD/DEAH box helicase
+hypothetical protein
+hypothetical protein
+carbohydrate kinase
+GTP-binding protein
+hypothetical protein
+GTP-binding protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+ATP-dependent helicase HepA
+N-6 DNA Methylase
+Putative ski2-type helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+Enamine/imine deaminase
+hypothetical protein
+fructose-1-P/6-phosphogluconate phosphatase
+putative ATP-dependent RNA helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+DNA-directed RNA polymerase subunit K
+hypothetical protein
+Archaeal histone A2
+ATP-dependent RNA helicase SrmB
+histidinol-phosphatase
+hypothetical protein
+Actin
+ADP-ribose pyrophosphatase
+Sulfatase
+Trehalose synthase
+Riboflavin kinase
+pyrroloquinoline quinone biosynthesis protein PqqE
+60Kd inner membrane protein
+GtrA-like protein
+hypothetical protein
+Citrate transporter
+Histone deacetylase domain protein
+Putative ski2-type helicase
+Minichromosome maintenance protein MCM
+PBS lyase HEAT-like repeat protein
+Proteasome-activating nucleotidase
+hypothetical protein
+hypothetical protein
+Reverse gyrase 1
+ATP-dependent RecD-like DNA helicase
+hypothetical protein
+hypothetical protein
+Roadblock/LC7 domain protein
+hypothetical protein
+LigB family dioxygenase
+hypothetical protein
+ATP-dependent DNA helicase
+acetyltransferase
+Serine dehydratase alpha chain
+putative ABC transporter ATP-binding protein
+hypothetical protein
+Endonuclease/Exonuclease/phosphatase family protein
+Peptidase family U32
+putative ATP-dependent RNA helicase
+ADP-ribosylation factor family protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+Reverse transcriptase (RNA-dependent DNA polymerase)
+hypothetical protein
+putative ATP-dependent RNA helicase
+putative transporter
+Serine hydroxymethyltransferase
+Transcriptional regulator PadR-like family protein
+putative acyl-CoA dehydrogenase
+FAD binding domain protein
+hypothetical protein
+excinuclease ABC subunit B
+excinuclease ABC subunit A
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+Putative ski2-type helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+Putative ski2-type helicase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+HTH-type transcriptional repressor AseR
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+putative NAD(P)H nitroreductase YodC
+hypothetical protein
+hypothetical protein
+Beta-galactosidase
+hypothetical protein
+conserved membrane protein of unknown function
+hypothetical protein
+ATPase and DNA damage recognition protein of nucleotide excision repair excinuclease UvrABC
+excinulease of nucleotide excision repair, DNA damage recognition component
+Oligosaccharyl transferase STT3 subunit
+hypothetical protein
+hypothetical protein
+hypothetical protein
+putative Helicase domain-containing protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+putative ATP-dependent helicase Lhr
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+Tungsten-containing aldehyde ferredoxin oxidoreductase
+Transcriptional regulator
+hypothetical protein
+hypothetical protein
+putative CRISPR-associated protein, Csh2 family
+putative Type I-B CRISPR-associated protein Cas5
+Tungsten-containing aldehyde ferredoxin oxidoreductase
+Transcriptional regulator
+hypothetical protein
+hypothetical protein
+putative CRISPR-associated protein, Csh2 family
+putative Type I-B CRISPR-associated protein Cas5
+CRISPR-associated protein, Csh2 family
+Transcriptional regulator
+hypothetical protein
+hypothetical protein
+putative CRISPR-associated protein, Csh2 family
+putative Type I-B CRISPR-associated protein Cas5
+CRISPR-associated protein, Csh2 family
+hypothetical protein
+hypothetical protein
+hypothetical protein
+putative CRISPR-associated protein, Csh2 family
+putative Type I-B CRISPR-associated protein Cas5
+CRISPR-associated protein, Csh2 family
+hypothetical protein
+hypothetical protein
+hypothetical protein
+putative CRISPR-associated protein, Csh2 family
+putative Type I-B CRISPR-associated protein Cas5
+CRISPR-associated protein, Csh2 family
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+putative CRISPR-associated protein Cas4
+hypothetical protein
+putative CRISPR-associated endonuclease Cas1 1
+hypothetical protein
+hypothetical protein
+hypothetical protein
+putative CRISPR-associated protein Cas4
+hypothetical protein
+putative CRISPR-associated endonuclease Cas1 1
+hypothetical protein
+hypothetical protein
+hypothetical protein
+putative CRISPR-associated protein Cas4
+hypothetical protein
+putative CRISPR-associated endonuclease Cas1 1
+hypothetical protein
+hypothetical protein
+hypothetical protein
+Phosphoenolpyruvate carboxykinase [GTP]
+hypothetical protein
+cold shock protein
+ATP-dependent RNA helicase RhlE
+conserved membrane protein of unknown function
+membrane protein of unknown function
+Small GTP-binding domain protein
+Small GTP-binding domain protein
+NADPH-flavin oxidoreductase
+p-aminobenzoyl-glutamate hydrolase subunit B
+putative DEAD-box ATP-dependent RNA helicase
+4-hydroxyphenylacetate decarboxylase large subunit
+hypothetical protein
+membrane protein of unknown function
+putative histidine kinase
+DnaJ domain protein
+putative ski2-type helicase
+GTPase Obg
+hypothetical protein
+Bifunctional protein FolD
+Thiol-disulfide oxidoreductase ResA
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+putative RAMP superfamily DNA repair protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+putative RAMP superfamily DNA repair protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+putative RAMP superfamily DNA repair protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+putative Tetratricopeptide repeat protein
+Tetratricopeptide repeat protein
+2'-5' RNA ligase
+Cysteine hydrolase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+PUA domain containing protein
+Bifunctional protein FolD
+hypothetical protein
+GTPase Obg
+putative ski2-type helicase
+hypothetical protein
+putative Sulfatase family protein 7
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+membrane protein of unknown function
+putative Type I phosphodiesterase/nucleotide pyrophosphatase family protein 2
+hypothetical protein
+conserved membrane protein of unknown function
+hypothetical protein
+hypothetical protein
+conserved membrane protein of unknown function
+hypothetical protein
+putative RNA helicase
+hypothetical protein
+conserved membrane protein of unknown function
+hypothetical protein
+putative RNA helicase
+hypothetical protein
+hypothetical protein
+Glyoxal reductase
+HTH-type transcriptional regulator CysL
+hypothetical protein
+hypothetical protein
+putative ATP-dependent helicase Lhr
+hypothetical protein
+Succinate-semialdehyde dehydrogenase (NAD(P)+)
+hypothetical protein
+conserved membrane protein of unknown function
+hypothetical protein
+ATPase and DNA damage recognition protein of nucleotide excision repair excinuclease UvrABC
+excinulease of nucleotide excision repair, DNA damage recognition component
+hypothetical protein
+membrane protein of unknown function
+ATP-dependent RNA helicase RhlE
+putative Histidine kinase
+Signal transduction response regulator
+hypothetical protein
+Glyoxalase-like domain protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+putative Short-chain-enoyl-CoA hydratase
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+putative CRISPR-associated RAMP family protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+putative CRISPR-associated RAMP family protein
+putative CRISPR-associated RAMP family protein
+F420-non-reducing hydrogenase iron-sulfur subunit D
+4Fe-4S ferredoxin
+hypothetical protein
+putative Helicase domain-containing protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+membrane protein of unknown function
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+hypothetical protein
+conserved membrane protein of unknown function
+hypothetical protein
+ATPase and DNA damage recognition protein of nucleotide excision repair excinuclease UvrABC
+excinulease of nucleotide excision repair, DNA damage recognition component
+Oligosaccharyl transferase STT3 subunit
+tRNA pseudouridine synthase A
+Replication factor C small subunit
+hypothetical protein
+HTH-type transcriptional regulator CysL
+Demethylrebeccamycin-D-glucose O-methyltransferase
+putative ATP-dependent helicase Lhr
+Aldehyde dehydrogenase
+Translation elongation factor aEF2
+hypothetical protein
+hypothetical protein
+putative hydrolases or acyltransferases (alpha/beta hydrolase superfamily)
+hypothetical protein
+putative ski2-type helicase
+GTPase Obg
+hypothetical protein
+hypothetical protein

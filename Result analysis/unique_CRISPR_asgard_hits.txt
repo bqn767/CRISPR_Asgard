@@ -1,0 +1,505 @@
+>OLS18915.1 hypothetical protein HeimC3_48530 [Candidatus Heimdallarchaeota 
+>RLI53267.1 CRISPR-associated protein Cas4 [Candidatus Thorarchaeota archaeon]
+>RLI54459.1 CRISPR-associated protein Cas4 [Candidatus Thorarchaeota archaeon]
+>OLS18980.1 CRISPR-associated exonuclease Cas4 [Candidatus Odinarchaeota 
+>RLI62686.1 CRISPR-associated protein Cas4 [Candidatus Thorarchaeota archaeon]
+>TXT64768.1 putative CRISPR-associated protein Cas4 [Candidatus Lokiarchaeota 
+>RLI72075.1 CRISPR-associated protein Cas4 [Candidatus Heimdallarchaeota 
+>TFF89121.1 CRISPR-associated protein Cas4 [Candidatus Lokiarchaeota archaeon]
+>OLS14983.1 cas4: CRISPR-associated protein Cas4 [Candidatus Lokiarchaeota 
+>RLI48919.1 hypothetical protein DRP09_21080 [Candidatus Thorarchaeota archaeon]
+>WP_147663575.1 PD-(D/E)XK nuclease family protein [Candidatus Prometheoarchaeum 
+>QEE16661.1 ATP-dependent RecD-like DNA helicase [Candidatus Prometheoarchaeum 
+>RLI57093.1 hypothetical protein DRO87_07365 [Candidatus Thorarchaeota archaeon]
+>RLI55697.1 hypothetical protein DRP09_09165 [Candidatus Thorarchaeota archaeon]
+>RLI61408.1 hypothetical protein DRO93_04390 [Candidatus Thorarchaeota archaeon]
+>OLS25348.1 hypothetical protein HeimC3_15620 [Candidatus Heimdallarchaeota 
+>RLI49529.1 hypothetical protein DRO73_06080 [Candidatus Thorarchaeota archaeon]
+>TET14409.1 hypothetical protein E3J82_01995, partial [Candidatus Thorarchaeota 
+>TET06941.1 hypothetical protein E3J86_14375 [Candidatus Thorarchaeota archaeon]
+>RDE11659.1 hypothetical protein C4K47_09525 [Candidatus Thorarchaeota archaeon]
+>TET11913.1 hypothetical protein E3J82_05145, partial [Candidatus Thorarchaeota 
+>RDE15459.1 hypothetical protein C4K48_03820 [Candidatus Thorarchaeota archaeon]
+>OLS30554.1 Replicase polyprotein 1ab, partial [Candidatus Heimdallarchaeota 
+>OLS12690.1 AAA ATPase [Candidatus Lokiarchaeota archaeon CR_4]
+>RLI62132.1 hypothetical protein DRO67_07405 [Candidatus Thorarchaeota archaeon]
+>TET78548.1 hypothetical protein E3J43_04410, partial [Candidatus Heimdallarchaeota 
+>OLS13627.1 AAA ATPase [Candidatus Lokiarchaeota archaeon CR_4]
+>TFG07116.1 hypothetical protein EU538_09225 [Candidatus Thorarchaeota archaeon]
+>RLI72134.1 hypothetical protein DRP02_02610 [Candidatus Heimdallarchaeota 
+>OLS21616.1 hypothetical protein HeimC3_34640 [Candidatus Heimdallarchaeota 
+>RLI68379.1 hypothetical protein DRO63_02810, partial [Candidatus Heimdallarchaeota 
+>RLI59896.1 hypothetical protein DRO67_09480 [Candidatus Thorarchaeota archaeon]
+>OLS16946.1 hypothetical protein HeimC2_45240 [Candidatus Heimdallarchaeota 
+>OLS22319.1 hypothetical protein HeimC2_30180, partial [Candidatus Heimdallarchaeota 
+>RLI68531.1 hypothetical protein DRP02_12410 [Candidatus Heimdallarchaeota 
+>OLS28270.1 ATP-dependent DNA helicase [Candidatus Heimdallarchaeota archaeon 
+>TFG19589.1 hypothetical protein EU530_05855, partial [Candidatus Lokiarchaeota 
+>WP_147663694.1 ATP-dependent DNA helicase [Candidatus Prometheoarchaeum syntrophicum]
+>QEE16761.1 ATP-dependent DNA helicase [Candidatus Prometheoarchaeum syntrophicum]
+>RLI66487.1 hypothetical protein DRO67_01015 [Candidatus Thorarchaeota archaeon]
+>RLI48306.1 CRISPR-associated protein Cas4 [Candidatus Thorarchaeota archaeon]
+>RLI57746.1 CRISPR-associated protein Cas4 [Candidatus Thorarchaeota archaeon]
+>RLI51778.1 CRISPR-associated protein Cas4 [Candidatus Thorarchaeota archaeon]
+>RLI55142.1 CRISPR-associated protein Cas4, partial [Candidatus Thorarchaeota 
+>RLI56454.1 hypothetical protein DRP09_06645 [Candidatus Thorarchaeota archaeon]
+>RLI55565.1 hypothetical protein DRO87_08860 [Candidatus Thorarchaeota archaeon]
+>RLI63447.1 hypothetical protein DRO88_09905, partial [Candidatus Lokiarchaeota 
+>TFF89120.1 CRISPR system precrRNA processing endoribonuclease RAMP protein 
+>RLI52313.1 hypothetical protein DRP09_18220 [Candidatus Thorarchaeota archaeon]
+>OLS18991.1 hypothetical protein OdinLCB4_00120 [Candidatus Odinarchaeota 
+>TXT61149.1 hypothetical protein BAJALOKI3v1_820004 [Candidatus Lokiarchaeota 
+>TXT64760.1 hypothetical protein BAJALOKI3v1_170046 [Candidatus Lokiarchaeota 
+>OLS13630.1 hypothetical protein RBG13Loki_2756 [Candidatus Lokiarchaeota 
+>TFF85021.1 hypothetical protein EU551_04725, partial [Candidatus Lokiarchaeota 
+>RLI56376.1 hypothetical protein DRO93_11295, partial [Candidatus Thorarchaeota 
+>RLI48304.1 CRISPR-associated helicase Cas3 [Candidatus Thorarchaeota archaeon]
+>OLS18984.1 hypothetical protein OdinLCB4_00050 [Candidatus Odinarchaeota 
+>RLI55141.1 CRISPR-associated helicase/endonuclease Cas3 [Candidatus Thorarchaeota 
+>TXT64761.1 hypothetical protein BAJALOKI3v1_170047 [Candidatus Lokiarchaeota 
+>RLI57747.1 hypothetical protein DRO93_10400 [Candidatus Thorarchaeota archaeon]
+>RLI52425.1 hypothetical protein DRP09_17935, partial [Candidatus Thorarchaeota 
+>OLS18985.1 putative CRISPR-associated nuclease/helicase Cas3 [Candidatus 
+>OLS16665.1 putative ski2-type helicase [Candidatus Heimdallarchaeota archaeon 
+>OLS25616.1 putative ski2-type helicase [Candidatus Heimdallarchaeota archaeon 
+>RLI63230.1 hypothetical protein DRO88_10420 [Candidatus Lokiarchaeota archaeon]
+>OLS22401.1 putative ski2-type helicase [Candidatus Heimdallarchaeota archaeon 
+>OLS25182.1 putative ski2-type helicase [Candidatus Heimdallarchaeota archaeon 
+>OLS17413.1 putative ski2-type helicase [Candidatus Odinarchaeota archaeon 
+>RDE13646.1 RNA helicase [Candidatus Thorarchaeota archaeon]
+>RLI62270.1 hypothetical protein DRO93_01725 [Candidatus Thorarchaeota archaeon]
+>RLI61541.1 helicase [Candidatus Thorarchaeota archaeon]
+>RLI51352.1 helicase [Candidatus Thorarchaeota archaeon]
+>RDE12959.1 RNA helicase [Candidatus Thorarchaeota archaeon]
+>RLI55564.1 type I-D CRISPR-associated helicase Cas3' [Candidatus Thorarchaeota 
+>RLI56455.1 type I-D CRISPR-associated helicase Cas3' [Candidatus Thorarchaeota 
+>PWI47269.1 hypothetical protein CEE45_12800 [Candidatus Heimdallarchaeota 
+>RLI56377.1 type I-D CRISPR-associated helicase Cas3' [Candidatus Thorarchaeota 
+>RLI71113.1 helicase, partial [Candidatus Heimdallarchaeota archaeon]
+>RDE16896.1 hypothetical protein C4K48_00770 [Candidatus Thorarchaeota archaeon]
+>RLI69060.1 helicase [Candidatus Heimdallarchaeota archaeon]
+>TFF91243.1 DEAD/DEAH box helicase [Candidatus Thorarchaeota archaeon]
+>PWI47305.1 hypothetical protein CEE45_12480 [Candidatus Heimdallarchaeota 
+>TFG09718.1 DEAD/DEAH box helicase [Candidatus Thorarchaeota archaeon]
+>RLI60257.1 hypothetical protein DRO87_00095 [Candidatus Thorarchaeota archaeon]
+>RLI56153.1 hypothetical protein DRP09_07520 [Candidatus Thorarchaeota archaeon]
+>TFG21761.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TET07765.1 DEAD/DEAH box helicase [Candidatus Thorarchaeota archaeon]
+>TFF93330.1 DEAD/DEAH box helicase, partial [Candidatus Thorarchaeota archaeon]
+>TFG07427.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>RDE13530.1 helicase [Candidatus Thorarchaeota archaeon]
+>TFF86390.1 DEAD/DEAH box helicase, partial [Candidatus Thorarchaeota archaeon]
+>TFF97198.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TFG30394.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TET10595.1 DEAD/DEAH box helicase [Candidatus Thorarchaeota archaeon]
+>RDE14713.1 hypothetical protein C4K49_07095 [Candidatus Thorarchaeota archaeon]
+>RDE15156.1 hypothetical protein C4K47_03070 [Candidatus Thorarchaeota archaeon]
+>QEE17773.1 Putative ski2-type helicase [Candidatus Prometheoarchaeum syntrophicum]
+>TXT64527.1 ATP-dependent RNA helicase RhlE [Candidatus Lokiarchaeota archaeon]
+>TFF93814.1 DEAD/DEAH box helicase, partial [Candidatus Thorarchaeota archaeon]
+>WP_162306821.1 DEAD/DEAH box helicase [Candidatus Prometheoarchaeum syntrophicum]
+>TFF87629.1 DEAD/DEAH box helicase, partial [Candidatus Lokiarchaeota archaeon]
+>PWI48769.1 hypothetical protein CEE45_05110 [Candidatus Heimdallarchaeota 
+>OLS13284.1 ATP dependent RNA helicase [Candidatus Lokiarchaeota archaeon 
+>TXT53206.1 ATP-dependent RNA helicase RhlE [Candidatus Lokiarchaeota archaeon]
+>OLS21545.1 putative ski2-type helicase [Candidatus Heimdallarchaeota archaeon 
+>TFF99476.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TFG18335.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TFF98278.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TFF99418.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TKJ21403.1 hypothetical protein CEE43_09680 [Candidatus Lokiarchaeota archaeon 
+>TET13348.1 DEAD/DEAH box helicase, partial [Candidatus Thorarchaeota archaeon]
+>TXT64141.1 putative DEAD-box ATP-dependent RNA helicase [Candidatus Lokiarchaeota 
+>TET32769.1 DEAD/DEAH box helicase [Candidatus Heimdallarchaeota archaeon]
+>TFG16865.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>RLI72208.1 RNA helicase [Candidatus Heimdallarchaeota archaeon]
+>OLS32580.1 putative ski2-type helicase [Candidatus Heimdallarchaeota archaeon 
+>TFG07007.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>OLS28558.1 putative ski2-type helicase [Candidatus Heimdallarchaeota archaeon 
+>TET81289.1 ATP-dependent helicase, partial [Candidatus Heimdallarchaeota 
+>TET57287.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>OLS28357.1 ATP-dependent RNA helicase RhlE [Candidatus Heimdallarchaeota 
+>OLS22936.1 putative ski2-type helicase [Candidatus Heimdallarchaeota archaeon 
+>TKJ26002.1 RNA helicase [Candidatus Lokiarchaeota archaeon Loki_b31]
+>TES94209.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>OLS17441.1 putative ski2-type helicase [Candidatus Odinarchaeota archaeon 
+>TET14320.1 DEAD/DEAH box helicase, partial [Candidatus Thorarchaeota archaeon]
+>RLI47513.1 extensin [Candidatus Thorarchaeota archaeon]
+>OLS32335.1 DEAD-box ATP-dependent RNA helicase CshA, partial [Candidatus 
+>TFG04837.1 DEAD/DEAH box helicase, partial [Candidatus Lokiarchaeota archaeon]
+>TFG01777.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TXT61939.1 putative ATP-dependent helicase Lhr [Candidatus Lokiarchaeota 
+>TXT59071.1 putative ski2-type helicase [Candidatus Lokiarchaeota archaeon]
+>TFG10270.1 DEAD/DEAH box helicase [Candidatus Heimdallarchaeota archaeon]
+>OLS28053.1 DEAD-box ATP-dependent RNA helicase CshB [Candidatus Heimdallarchaeota 
+>OLS17005.1 DEAD-box ATP-dependent RNA helicase CshB [Candidatus Heimdallarchaeota 
+>OLS26837.1 putative ATP-dependent RNA helicase [Candidatus Heimdallarchaeota 
+>TET61812.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>WP_147662084.1 DEAD/DEAH box helicase [Candidatus Prometheoarchaeum syntrophicum]
+>QEE15163.1 putative ATP-dependent RNA helicase [Candidatus Prometheoarchaeum 
+>TFG20537.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>OLS15347.1 ATP-dependent RNA helicase [Candidatus Lokiarchaeota archaeon 
+>TKJ19147.1 hypothetical protein CEE43_16320 [Candidatus Lokiarchaeota archaeon 
+>TFF63717.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>RLI69191.1 hypothetical protein DRP02_11110 [Candidatus Heimdallarchaeota 
+>TXT64084.1 putative ski2-type helicase [Candidatus Lokiarchaeota archaeon]
+>TET27251.1 DEAD/DEAH box helicase [Candidatus Heimdallarchaeota archaeon]
+>TET09474.1 DEAD/DEAH box helicase [Candidatus Thorarchaeota archaeon]
+>RLI63171.1 ATP-dependent helicase [Candidatus Lokiarchaeota archaeon]
+>RLI62773.1 extensin [Candidatus Thorarchaeota archaeon]
+>PWI46353.1 hypothetical protein CEE45_17260 [Candidatus Heimdallarchaeota 
+>TFF90431.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TFG29950.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TFF87866.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TFG23516.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TFG28999.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TXT55048.1 putative ATP-dependent helicase Lhr [Candidatus Lokiarchaeota 
+>TFF93769.1 DEAD/DEAH box helicase, partial [Candidatus Lokiarchaeota archaeon]
+>TFF93452.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>OLS15953.1 DEAD/DEAH box helicase domain-containing protein [Candidatus 
+>OLS18324.1 putative ski2-type helicase [Candidatus Odinarchaeota archaeon 
+>TFG02404.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TET80788.1 DEAD/DEAH box helicase [Candidatus Heimdallarchaeota archaeon]
+>OLS21223.1 putative ski2-type helicase [Candidatus Heimdallarchaeota archaeon 
+>TET29803.1 DEAD/DEAH box helicase [Candidatus Heimdallarchaeota archaeon]
+>PWI48461.1 hypothetical protein CEE45_06930 [Candidatus Heimdallarchaeota 
+>RLI67839.1 hypothetical protein DRP02_13740 [Candidatus Heimdallarchaeota 
+>TFG24807.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TFG16329.1 DEAD/DEAH box helicase, partial [Candidatus Lokiarchaeota archaeon]
+>RDE14588.1 RNA helicase [Candidatus Thorarchaeota archaeon]
+>OLS23386.1 ATP-dependent RNA helicase RhlE [Candidatus Heimdallarchaeota 
+>PWI47018.1 hypothetical protein CEE45_14035 [Candidatus Heimdallarchaeota 
+>TFH30359.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>RDE11090.1 extensin [Candidatus Thorarchaeota archaeon]
+>TFF87049.1 DEAD/DEAH box helicase [Candidatus Thorarchaeota archaeon]
+>OLS25171.1 putative ski2-type helicase [Candidatus Heimdallarchaeota archaeon 
+>PWI46938.1 DEAD/DEAH box helicase [Candidatus Heimdallarchaeota archaeon 
+>RLI58726.1 hypothetical protein DRO67_10450, partial [Candidatus Thorarchaeota 
+>TFG24965.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TES97572.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TFF84818.1 hypothetical protein EU523_01135, partial [Candidatus Heimdallarchaeota 
+>OLS20938.1 ATP-dependent RNA helicase RhlB [Candidatus Heimdallarchaeota 
+>WP_147663810.1 DEAD/DEAH box helicase [Candidatus Prometheoarchaeum syntrophicum]
+>QEE16884.1 putative ATP-dependent RNA helicase [Candidatus Prometheoarchaeum 
+>TFG22153.1 DEAD/DEAH box helicase, partial [Candidatus Lokiarchaeota archaeon]
+>RLI50773.1 RNA helicase [Candidatus Thorarchaeota archaeon]
+>OLS15945.1 ski2-type helicase [Candidatus Lokiarchaeota archaeon CR_4]
+>RLI67054.1 hypothetical protein DRO88_00060 [Candidatus Lokiarchaeota archaeon]
+>TET30072.1 ATP-dependent DNA helicase [Candidatus Heimdallarchaeota archaeon]
+>RLI72102.1 hypothetical protein DRP02_02875 [Candidatus Heimdallarchaeota 
+>PWI48797.1 hypothetical protein CEE45_05255 [Candidatus Heimdallarchaeota 
+>RDE12333.1 RNA helicase [Candidatus Thorarchaeota archaeon]
+>TET60854.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TET11534.1 DEAD/DEAH box helicase [Candidatus Thorarchaeota archaeon]
+>RLI55652.1 hypothetical protein DRP09_08940, partial [Candidatus Thorarchaeota 
+>TFF98037.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>RLI57409.1 RNA helicase [Candidatus Thorarchaeota archaeon]
+>TES95644.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>OLS24619.1 UvrABC system protein B [Candidatus Heimdallarchaeota archaeon 
+>TET61599.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TET14667.1 DEAD/DEAH box helicase, partial [Candidatus Thorarchaeota archaeon]
+>TFG18219.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>WP_147661435.1 DEAD/DEAH box helicase [Candidatus Prometheoarchaeum syntrophicum]
+>QEE14482.1 Putative ski2-type helicase [Candidatus Prometheoarchaeum syntrophicum]
+>RDE13991.1 hypothetical protein C4K49_07970 [Candidatus Thorarchaeota archaeon]
+>RLI54039.1 helicase [Candidatus Thorarchaeota archaeon]
+>TKJ20376.1 hypothetical protein CEE43_12710 [Candidatus Lokiarchaeota archaeon 
+>TKJ22357.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon Loki_b32]
+>TXT56247.1 putative ski2-type helicase [Candidatus Lokiarchaeota archaeon]
+>RLI69489.1 RNA helicase [Candidatus Heimdallarchaeota archaeon]
+>RLI53202.1 transcription-repair coupling factor, partial [Candidatus Thorarchaeota 
+>WP_147664181.1 DEAD/DEAH box helicase family protein [Candidatus Prometheoarchaeum 
+>QEE17283.1 putative ATP-dependent RNA helicase [Candidatus Prometheoarchaeum 
+>TFG03711.1 hypothetical protein EU542_01295 [Candidatus Lokiarchaeota archaeon]
+>TFG23132.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TFG07506.1 DEAD/DEAH box helicase, partial [Candidatus Thorarchaeota archaeon]
+>TET58538.1 excinuclease ABC subunit B, partial [Candidatus Lokiarchaeota 
+>TFF63482.1 DEAD/DEAH box helicase, partial [Candidatus Lokiarchaeota archaeon]
+>OLS29121.1 putative ski2-type helicase [Candidatus Heimdallarchaeota archaeon 
+>RLI52847.1 hypothetical protein DRP09_17090 [Candidatus Thorarchaeota archaeon]
+>TFG00682.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TKJ26593.1 hypothetical protein CEE42_04435 [Candidatus Lokiarchaeota archaeon 
+>TFG12441.1 DEAD/DEAH box helicase, partial [Candidatus Lokiarchaeota archaeon]
+>TFF93615.1 DEAD/DEAH box helicase [Candidatus Thorarchaeota archaeon]
+>TFG24001.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>RLI61098.1 hypothetical protein DRO88_13475 [Candidatus Lokiarchaeota archaeon]
+>TFG28667.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>RLI65120.1 hypothetical protein DRO67_03120, partial [Candidatus Thorarchaeota 
+>TXT57111.1 putative RNA helicase [Candidatus Lokiarchaeota archaeon]
+>TXT65151.1 putative Helicase domain-containing protein [Candidatus Lokiarchaeota 
+>OLS33078.1 ATP-dependent RNA helicase DbpA [Candidatus Heimdallarchaeota 
+>TFF69052.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TFF97620.1 excinuclease ABC subunit UvrB [Candidatus Lokiarchaeota archaeon]
+>OLS14475.1 superfamily II helicase [Candidatus Lokiarchaeota archaeon CR_4]
+>TFF90790.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TXT66326.1 putative Helicase domain-containing protein [Candidatus Lokiarchaeota 
+>TFF94611.1 excinuclease ABC subunit UvrB [Candidatus Lokiarchaeota archaeon]
+>TFG22888.1 excinuclease ABC subunit UvrB [Candidatus Lokiarchaeota archaeon]
+>TFF92843.1 DEAD/DEAH box helicase, partial [Candidatus Thorarchaeota archaeon]
+>TKJ19559.1 hypothetical protein CEE42_15485 [Candidatus Lokiarchaeota archaeon 
+>TFG00929.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TFG10810.1 DEAD/DEAH box helicase [Candidatus Heimdallarchaeota archaeon]
+>OLS17754.1 ATP-dependent RNA helicase DbpA [Candidatus Odinarchaeota archaeon 
+>TFG08828.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TFG07443.1 DEAD/DEAH box helicase [Candidatus Thorarchaeota archaeon]
+>TXT65428.1 hypothetical protein BAJALOKI1v1_430019 [Candidatus Lokiarchaeota 
+>TKJ27782.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon Loki_b31]
+>TFF95038.1 excinuclease ABC subunit UvrB [Candidatus Lokiarchaeota archaeon]
+>TXT65650.1 excinulease of nucleotide excision repair, DNA damage recognition 
+>TXT64548.1 excinulease of nucleotide excision repair, DNA damage recognition 
+>TFF92506.1 DEAD/DEAH box helicase [Candidatus Thorarchaeota archaeon]
+>TET56391.1 hypothetical protein E3J52_12010 [Candidatus Lokiarchaeota archaeon]
+>TET10828.1 DEAD/DEAH box helicase [Candidatus Thorarchaeota archaeon]
+>OLS25627.1 putative ski2-type helicase [Candidatus Heimdallarchaeota archaeon 
+>TET32602.1 DEAD/DEAH box helicase [Candidatus Heimdallarchaeota archaeon]
+>TFF96426.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>PWI46241.1 hypothetical protein CEE45_17845 [Candidatus Heimdallarchaeota 
+>TKJ21329.1 excinuclease ABC subunit B [Candidatus Lokiarchaeota archaeon 
+>TFG23368.1 hypothetical protein EU532_13545 [Candidatus Lokiarchaeota archaeon]
+>RLI71015.1 DEAD/DEAH box helicase [Candidatus Heimdallarchaeota archaeon]
+>TKJ18587.1 hypothetical protein CEE42_16320 [Candidatus Lokiarchaeota archaeon 
+>TFG26896.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>RDE12081.1 hypothetical protein C4K48_10360 [Candidatus Thorarchaeota archaeon]
+>TFG23974.1 hypothetical protein EU532_12970 [Candidatus Lokiarchaeota archaeon]
+>RLI72600.1 hypothetical protein DRO91_04345 [Candidatus Heimdallarchaeota 
+>WP_147665296.1 excinuclease ABC subunit UvrB [Candidatus Prometheoarchaeum syntrophicum]
+>TKJ19337.1 hypothetical protein CEE43_15615 [Candidatus Lokiarchaeota archaeon 
+>TET58806.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>RLI64974.1 excinuclease ABC subunit B [Candidatus Lokiarchaeota archaeon]
+>OLS24562.1 UvrABC system protein B [Candidatus Heimdallarchaeota archaeon 
+>QEE17422.1 excinuclease ABC subunit B [Candidatus Prometheoarchaeum syntrophicum]
+>RLI69208.1 hypothetical protein DRP02_11075, partial [Candidatus Heimdallarchaeota 
+>TET27792.1 excinuclease ABC subunit UvrB [Candidatus Heimdallarchaeota archaeon]
+>TXT53346.1 excinulease of nucleotide excision repair, DNA damage recognition 
+>RLI66029.1 CRISPR-associated endonuclease Cas3'' [Candidatus Thorarchaeota 
+>RLI56110.1 CRISPR-associated endonuclease Cas3'', partial [Candidatus Thorarchaeota 
+>WP_147663031.1 DEAD/DEAH box helicase [Candidatus Prometheoarchaeum syntrophicum]
+>QEE16152.1 Putative ski2-type helicase [Candidatus Prometheoarchaeum syntrophicum]
+>TFG09910.1 DEAD/DEAH box helicase, partial [Candidatus Heimdallarchaeota 
+>TXT57108.1 hypothetical protein BAJALOKI2v1_540010 [Candidatus Lokiarchaeota 
+>TFG05980.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TXT65423.1 hypothetical protein BAJALOKI1v1_430014 [Candidatus Lokiarchaeota 
+>WP_162306820.1 DEAD/DEAH box helicase [Candidatus Prometheoarchaeum syntrophicum]
+>QEE17768.1 Putative ski2-type helicase [Candidatus Prometheoarchaeum syntrophicum]
+>WP_147662551.1 DEAD/DEAH box helicase family protein [Candidatus Prometheoarchaeum 
+>QEE15649.1 ATP-dependent RNA helicase SrmB [Candidatus Prometheoarchaeum 
+>TFF85467.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>OLS26535.1 putative ski2-type helicase [Candidatus Heimdallarchaeota archaeon 
+>OLS23613.1 putative ski2-type helicase [Candidatus Heimdallarchaeota archaeon 
+>RLI54812.1 hypothetical protein DRO93_12410, partial [Candidatus Thorarchaeota 
+>RLI63292.1 hypothetical protein DRO88_10250 [Candidatus Lokiarchaeota archaeon]
+>TFG28658.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TFF94894.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TFF87877.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TKJ26599.1 hypothetical protein CEE42_04465 [Candidatus Lokiarchaeota archaeon 
+>OLS18990.1 hypothetical protein OdinLCB4_00110 [Candidatus Odinarchaeota 
+>RLI56452.1 hypothetical protein DRP09_06635 [Candidatus Thorarchaeota archaeon]
+>RLI55567.1 hypothetical protein DRO87_08870 [Candidatus Thorarchaeota archaeon]
+>TFF88000.1 ArsR family transcriptional regulator [Candidatus Lokiarchaeota 
+>RDE11472.1 hypothetical protein C4K48_11440 [Candidatus Thorarchaeota archaeon]
+>RLI59312.1 hypothetical protein DRO93_08535 [Candidatus Thorarchaeota archaeon]
+>RLI62395.1 hypothetical protein DRO67_07165 [Candidatus Thorarchaeota archaeon]
+>RLI55741.1 hypothetical protein DRP09_08855 [Candidatus Thorarchaeota archaeon]
+>RLI54317.1 hypothetical protein DRO87_10310 [Candidatus Thorarchaeota archaeon]
+>TET07410.1 ArsR family transcriptional regulator [Candidatus Thorarchaeota 
+>RLI59162.1 hypothetical protein DRO93_08780, partial [Candidatus Thorarchaeota 
+>PWI46902.1 hypothetical protein CEE45_14530 [Candidatus Heimdallarchaeota 
+>WP_147662958.1 DUF120 domain-containing protein [Candidatus Prometheoarchaeum 
+>QEE16072.1 Riboflavin kinase [Candidatus Prometheoarchaeum syntrophicum]
+>OLS13326.1 hypothetical protein RBG13Loki_3042 [Candidatus Lokiarchaeota 
+>TFG18035.1 HTH domain-containing protein [Candidatus Lokiarchaeota archaeon]
+>TKJ20460.1 hypothetical protein CEE43_12340 [Candidatus Lokiarchaeota archaeon 
+>TFG04787.1 hypothetical protein EU536_03850 [Candidatus Lokiarchaeota archaeon]
+>RLI67794.1 hypothetical protein DRP02_13850 [Candidatus Heimdallarchaeota 
+>RDE13489.1 hypothetical protein C4K48_08265 [Candidatus Thorarchaeota archaeon]
+>RDE11321.1 hypothetical protein C4K48_11560 [Candidatus Thorarchaeota archaeon]
+>TXT63653.1 hypothetical protein BAJALOKI3v1_330007 [Candidatus Lokiarchaeota 
+>TFG22115.1 ArsR family transcriptional regulator, partial [Candidatus Lokiarchaeota 
+>TXT59963.1 hypothetical protein BAJALOKI2v1_150053 [Candidatus Lokiarchaeota 
+>TFF91831.1 winged helix-turn-helix transcriptional regulator [Candidatus 
+>RDE11473.1 hypothetical protein C4K48_11445 [Candidatus Thorarchaeota archaeon]
+>TFG15089.1 Lrp/AsnC family transcriptional regulator [Candidatus Lokiarchaeota 
+>TFF93828.1 ArsR family transcriptional regulator, partial [Candidatus Lokiarchaeota 
+>TFG20035.1 ArsR family transcriptional regulator [Candidatus Lokiarchaeota 
+>PWI46365.1 hypothetical protein CEE45_17155 [Candidatus Heimdallarchaeota 
+>TFG21887.1 ArsR family transcriptional regulator [Candidatus Lokiarchaeota 
+>RLI53333.1 hypothetical protein DRO93_13770 [Candidatus Thorarchaeota archaeon]
+>RLI49941.1 hypothetical protein DRO73_04745 [Candidatus Thorarchaeota archaeon]
+>TXT67390.1 hypothetical protein BAJALOKI1v1_100003 [Candidatus Lokiarchaeota 
+>TKJ25617.1 hypothetical protein CEE42_07195 [Candidatus Lokiarchaeota archaeon 
+>TFF87366.1 winged helix-turn-helix transcriptional regulator [Candidatus 
+>TFG24655.1 winged helix-turn-helix transcriptional regulator [Candidatus 
+>TET80388.1 ArsR family transcriptional regulator [Candidatus Heimdallarchaeota 
+>TFF94392.1 ArsR family transcriptional regulator [Candidatus Lokiarchaeota 
+>TET14821.1 hypothetical protein E3J82_01505 [Candidatus Thorarchaeota archaeon]
+>TFG15824.1 ArsR family transcriptional regulator [Candidatus Lokiarchaeota 
+>OLS31813.1 HTH-type transcriptional regulator [Candidatus Heimdallarchaeota 
+>TFF85210.1 ArsR family transcriptional regulator [Candidatus Heimdallarchaeota 
+>TXT65732.1 HTH-type transcriptional repressor AseR [Candidatus Lokiarchaeota 
+>TXT58188.1 hypothetical protein BAJALOKI2v1_420010 [Candidatus Lokiarchaeota 
+>RLI55782.1 hypothetical protein DRP09_08520 [Candidatus Thorarchaeota archaeon]
+>TFG13386.1 hypothetical protein EU535_05080 [Candidatus Lokiarchaeota archaeon]
+>TFF93091.1 ArsR family transcriptional regulator [Candidatus Thorarchaeota 
+>RDE10706.1 hypothetical protein C4K49_12765 [Candidatus Thorarchaeota archaeon]
+>TXT65568.1 hypothetical protein BAJALOKI3v1_90011 [Candidatus Lokiarchaeota 
+>TFG29199.1 ArsR family transcriptional regulator [Candidatus Lokiarchaeota 
+>TFG04306.1 ArsR family transcriptional regulator [Candidatus Thorarchaeota 
+>RDE12619.1 hypothetical protein C4K47_07740 [Candidatus Thorarchaeota archaeon]
+>TFF95650.1 metal-dependent transcriptional regulator [Candidatus Lokiarchaeota 
+>TFF89143.1 Lrp/AsnC family transcriptional regulator [Candidatus Lokiarchaeota 
+>PWI49429.1 hypothetical protein CEE45_01145 [Candidatus Heimdallarchaeota 
+>RLI56451.1 hypothetical protein DRP09_06630 [Candidatus Thorarchaeota archaeon]
+>TFF85312.1 threonine synthase [Candidatus Lokiarchaeota archaeon]
+>OLS24610.1 Transcriptional repressor SdpR [Candidatus Heimdallarchaeota 
+>PWI48568.1 hypothetical protein CEE45_05870 [Candidatus Heimdallarchaeota 
+>TKJ18547.1 hypothetical protein CEE43_17835 [Candidatus Lokiarchaeota archaeon 
+>TET09546.1 ArsR family transcriptional regulator [Candidatus Thorarchaeota 
+>RLI63109.1 ArsR family transcriptional regulator [Candidatus Thorarchaeota 
+>TET08169.1 ArsR family transcriptional regulator [Candidatus Thorarchaeota 
+>TET29721.1 S-layer protein [Candidatus Heimdallarchaeota archaeon]
+>RLI61849.1 hypothetical protein DRO93_02980 [Candidatus Thorarchaeota archaeon]
+>TFF98712.1 acyl-CoA dehydrogenase, partial [Candidatus Lokiarchaeota archaeon]
+>TFG10754.1 ArsR family transcriptional regulator [Candidatus Heimdallarchaeota 
+>TFG07883.1 MarR family transcriptional regulator [Candidatus Thorarchaeota 
+>OLS20552.1 putative HTH-type transcriptional regulator YybR [Candidatus 
+>RLI52725.1 hypothetical protein DRO87_12745, partial [Candidatus Thorarchaeota 
+>RLI61323.1 Lrp/AsnC family transcriptional regulator [Candidatus Lokiarchaeota 
+>RLI71546.1 hypothetical protein DRP02_04530 [Candidatus Heimdallarchaeota 
+>RLI54460.1 subtype I-C CRISPR-associated endonuclease Cas1 [Candidatus Thorarchaeota 
+>RLI51779.1 subtype I-B CRISPR-associated endonuclease Cas1 [Candidatus Thorarchaeota 
+>RLI53269.1 CRISPR-associated endonuclease Cas1 [Candidatus Thorarchaeota 
+>RLI52311.1 CRISPR-associated endonuclease Cas1 [Candidatus Thorarchaeota 
+>TFF89123.1 CRISPR-associated endonuclease Cas1 [Candidatus Lokiarchaeota 
+>OLS18982.1 CRISPR-associated endonuclease Cas1 2 [Candidatus Odinarchaeota 
+>RLI57745.1 subtype I-B CRISPR-associated endonuclease Cas1 [Candidatus Thorarchaeota 
+>TXT64770.1 putative CRISPR-associated endonuclease Cas1 1 [Candidatus Lokiarchaeota 
+>RLI72077.1 CRISPR-associated endonuclease Cas1 [Candidatus Heimdallarchaeota 
+>RLI48496.1 type III-B CRISPR module-associated protein Cmr5 [Candidatus 
+>RLI60791.1 type III-B CRISPR module-associated protein Cmr5 [Candidatus 
+>RLI52455.1 type III-B CRISPR module-associated protein Cmr5 [Candidatus 
+>RLI54031.1 type III-B CRISPR module-associated protein Cmr5, partial [Candidatus 
+>RLI60788.1 type III-B CRISPR module RAMP protein Cmr4 [Candidatus Thorarchaeota 
+>RLI48493.1 type III-B CRISPR module RAMP protein Cmr4 [Candidatus Thorarchaeota 
+>RLI54032.1 type III-B CRISPR module RAMP protein Cmr4 [Candidatus Thorarchaeota 
+>RLI52454.1 type III-B CRISPR module RAMP protein Cmr4 [Candidatus Thorarchaeota 
+>RLI52886.1 type III-B CRISPR module RAMP protein Cmr4 [Candidatus Thorarchaeota 
+>RLI50869.1 hypothetical protein DRP09_19695, partial [Candidatus Thorarchaeota 
+>RLI53458.1 hypothetical protein DRP09_15670 [Candidatus Thorarchaeota archaeon]
+>RLI54312.1 hypothetical protein DRP09_13445 [Candidatus Thorarchaeota archaeon]
+>OLS18605.1 hypothetical protein OdinLCB4_03070 [Candidatus Odinarchaeota 
+>OLS18604.1 hypothetical protein OdinLCB4_03060 [Candidatus Odinarchaeota 
+>RLI52538.1 hypothetical protein DRO93_14865 [Candidatus Thorarchaeota archaeon]
+>RLI54313.1 hypothetical protein DRP09_13450 [Candidatus Thorarchaeota archaeon]
+>RLI61794.1 hypothetical protein DRO88_12610 [Candidatus Lokiarchaeota archaeon]
+>TKJ26803.1 type III-A CRISPR-associated RAMP protein Csm3 [Candidatus Lokiarchaeota 
+>OLS18608.1 hypothetical protein OdinLCB4_03100 [Candidatus Odinarchaeota 
+>OLS18602.1 hypothetical protein OdinLCB4_03040 [Candidatus Odinarchaeota 
+>RLI53804.1 CRISPR-associated RAMP protein Csx10, partial [Candidatus Thorarchaeota 
+>RLI53803.1 CRISPR-associated protein [Candidatus Thorarchaeota archaeon]
+>RLI52537.1 hypothetical protein DRO93_14860 [Candidatus Thorarchaeota archaeon]
+>TXT67219.1 hypothetical protein BAJALOKI1v1_150018 [Candidatus Lokiarchaeota 
+>OLS18607.1 hypothetical protein OdinLCB4_03090 [Candidatus Odinarchaeota 
+>RLI60795.1 type III-B CRISPR module RAMP protein Cmr6 [Candidatus Thorarchaeota 
+>RLI48498.1 type III-B CRISPR module RAMP protein Cmr6 [Candidatus Thorarchaeota 
+>RLI50871.1 hypothetical protein DRP09_19705 [Candidatus Thorarchaeota archaeon]
+>RLI52456.1 type III-B CRISPR module RAMP protein Cmr6 [Candidatus Thorarchaeota 
+>TXT67220.1 hypothetical protein BAJALOKI1v1_150019 [Candidatus Lokiarchaeota 
+>RLI52453.1 hypothetical protein DRP09_17880, partial [Candidatus Thorarchaeota 
+>RLI54033.1 type III-B CRISPR module-associated protein Cmr3 [Candidatus 
+>RLI60787.1 type III-B CRISPR module-associated protein Cmr3 [Candidatus 
+>RLI48492.1 type III-B CRISPR module-associated protein Cmr3 [Candidatus 
+>RLI48491.1 type III-B CRISPR-associated protein Cas10/Cmr2, partial [Candidatus 
+>RLI60786.1 type III-B CRISPR-associated protein Cas10/Cmr2 [Candidatus Thorarchaeota 
+>RLI54034.1 type III-B CRISPR-associated protein Cas10/Cmr2 [Candidatus Thorarchaeota 
+>TKJ26801.1 type III-A CRISPR-associated protein Cas10/Csm1 [Candidatus Lokiarchaeota 
+>RLI52117.1 type III-B CRISPR-associated protein Cas10/Cmr2, partial [Candidatus 
+>RLI63784.1 type III-A CRISPR-associated protein Cas10/Csm1, partial [Candidatus 
+>RLI49077.1 hypothetical protein DRP09_20940, partial [Candidatus Thorarchaeota 
+>RLI53802.1 phosphohydrolase, partial [Candidatus Thorarchaeota archaeon]
+>OLS18609.1 hypothetical protein OdinLCB4_03110 [Candidatus Odinarchaeota 
+>OLS18987.1 hypothetical protein OdinLCB4_00080 [Candidatus Odinarchaeota 
+>TXT64764.1 CRISPR-associated protein, Csh2 family [Candidatus Lokiarchaeota 
+>RLI54458.1 type I-C CRISPR-associated protein Cas7/Csd2, partial [Candidatus 
+>TXT64762.1 putative CRISPR-associated protein, Csh2 family [Candidatus Lokiarchaeota 
+>OLS14986.1 CRISPR-associated protein, Csh2 family, partial [Candidatus Lokiarchaeota 
+>TXT64763.1 putative Type I-B CRISPR-associated protein Cas5 [Candidatus 
+>RLI48303.1 type I-B CRISPR-associated protein Cas5 [Candidatus Thorarchaeota 
+>RLI52426.1 type I-B CRISPR-associated protein Cas5 [Candidatus Thorarchaeota 
+>RLI50872.1 hypothetical protein DRP09_19710, partial [Candidatus Thorarchaeota 
+>RLI56109.1 CRISPR-associated protein Cas5 [Candidatus Thorarchaeota archaeon]
+>TXT61147.1 putative RAMP superfamily DNA repair protein [Candidatus Lokiarchaeota 
+>TKJ26804.1 type III-A CRISPR-associated RAMP protein Csm4 [Candidatus Lokiarchaeota 
+>RLI56379.1 type I-D CRISPR-associated protein Cas7/Csc2 [Candidatus Thorarchaeota 
+>RLI53007.1 type I-D CRISPR-associated protein Cas7/Csc2 [Candidatus Thorarchaeota 
+>RLI56457.1 type I-D CRISPR-associated protein Cas7/Csc2 [Candidatus Thorarchaeota 
+>TXT65062.1 putative ATP-dependent helicase Lhr [Candidatus Lokiarchaeota 
+>TFG02485.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon]
+>TFG11297.1 DEAD/DEAH box helicase, partial [Candidatus Lokiarchaeota archaeon]
+>OLS16314.1 DEAD/DEAH box helicase [Candidatus Lokiarchaeota archaeon CR_4]
+>TKJ27155.1 excinuclease ABC subunit B [Candidatus Lokiarchaeota archaeon 
+>OLS18988.1 CRISPR-associated protein Cas7/Csa2 1 [Candidatus Odinarchaeota 
+>RLI50483.1 type I-B CRISPR-associated protein Cas7/Cst2/DevR, partial [Candidatus 
+>RLI59316.1 type I-B CRISPR-associated protein Cas7/Cst2/DevR, partial [Candidatus 
+>TKJ26805.1 type III-A CRISPR-associated RAMP protein Csm5 [Candidatus Lokiarchaeota 
+>TXT61148.1 hypothetical protein BAJALOKI3v1_820003 [Candidatus Lokiarchaeota 
+>OLS18981.1 CRISPR-associated endonuclease Cas1/endonuclease Cas2 fusion 
+>RLI53268.1 CRISPR-associated endonuclease Cas2 [Candidatus Thorarchaeota 
+>RLI52312.1 CRISPR-associated endonuclease Cas2 [Candidatus Thorarchaeota 
+>RLI61793.1 CRISPR-associated endonuclease Cas2 [Candidatus Lokiarchaeota 
+>RLI51780.1 CRISPR-associated endonuclease Cas2 [Candidatus Thorarchaeota 
+>RLI57744.1 CRISPR-associated endonuclease Cas2 [Candidatus Thorarchaeota 
+>RLI72076.1 CRISPR-associated endonuclease Cas2 [Candidatus Heimdallarchaeota 
+>TFF89122.1 CRISPR-associated endonuclease Cas2 [Candidatus Lokiarchaeota 
+>OLS14982.1 hypothetical protein RBG13Loki_1397 [Candidatus Lokiarchaeota 
+>RLI54461.1 CRISPR-associated endonuclease Cas2 [Candidatus Thorarchaeota 
+>TXT64769.1 hypothetical protein BAJALOKI3v1_170055 [Candidatus Lokiarchaeota 
+>OLS18983.1 CRISPR-associated protein Csa1 [Candidatus Odinarchaeota archaeon 
+>RLI56453.1 type I-A CRISPR-associated protein Cas4/Csa1 [Candidatus Thorarchaeota 
+>RLI55566.1 type I-A CRISPR-associated protein Cas4/Csa1 [Candidatus Thorarchaeota 
+>RLI59314.1 CRISPR-associated endoribonuclease Cas6 [Candidatus Thorarchaeota 
+>RLI50482.1 CRISPR-associated endoribonuclease Cas6, partial [Candidatus 
+>RLI52884.1 hypothetical protein DRP09_16990 [Candidatus Thorarchaeota archaeon]
+>RLI55140.1 hypothetical protein DRO93_12190, partial [Candidatus Thorarchaeota 
+>RLI52885.1 hypothetical protein DRP09_16995 [Candidatus Thorarchaeota archaeon]
+>RLI50870.1 hypothetical protein DRP09_19700 [Candidatus Thorarchaeota archaeon]
+>RLI63231.1 type I-E CRISPR-associated protein Cse1/CasA [Candidatus Lokiarchaeota 
+>RLI68076.1 type I-E CRISPR-associated protein Cse1/CasA [Candidatus Heimdallarchaeota 
+>OLS12945.1 hypothetical protein RBG13Loki_3431 [Candidatus Lokiarchaeota 
+>OLS12944.1 hypothetical protein RBG13Loki_3430 [Candidatus Lokiarchaeota 
+>OLS12947.1 hypothetical protein RBG13Loki_3433 [Candidatus Lokiarchaeota 
+>RLI63233.1 type I-E CRISPR-associated protein Cas7/Cse4/CasC [Candidatus 
+>OLS12951.1 putative CRISPR-associated protein [Candidatus Lokiarchaeota 
+>OLS14984.1 CRISPR-associated protein, Csh1 family [Candidatus Lokiarchaeota 
+>OLS14985.1 hypothetical protein RBG13Loki_1400 [Candidatus Lokiarchaeota 
+>TKJ26807.1 hypothetical protein CEE42_04310 [Candidatus Lokiarchaeota archaeon 
+>RLI56456.1 type I-D CRISPR-associated protein Cas5/Csc1 [Candidatus Thorarchaeota 
+>RLI53008.1 type I-D CRISPR-associated protein Cas5/Csc1, partial [Candidatus 
+>RLI56378.1 type I-D CRISPR-associated protein Cas5/Csc1 [Candidatus Thorarchaeota 
+>RLI55563.1 type I-D CRISPR-associated protein Cas5/Csc1, partial [Candidatus 
+>RLI59315.1 type I-B CRISPR-associated protein Cas8b1/Cst1 [Candidatus Thorarchaeota 
+>RLI50481.1 type I-B CRISPR-associated protein Cas8b1/Cst1 [Candidatus Thorarchaeota 
+>RLI72106.1 hypothetical protein DRP02_02895 [Candidatus Heimdallarchaeota 
+>RLI68435.1 hypothetical protein DRO63_02695 [Candidatus Heimdallarchaeota 
+>TET27247.1 hypothetical protein E3J70_12265 [Candidatus Heimdallarchaeota 
+>RLI72825.1 hypothetical protein DRO91_04070, partial [Candidatus Heimdallarchaeota 
+>RLI61128.1 hypothetical protein DRO93_05110 [Candidatus Thorarchaeota archaeon]
+>RLI49729.1 hypothetical protein DRO73_05455 [Candidatus Thorarchaeota archaeon]
+>RDE15869.1 hypothetical protein C4K49_05330 [Candidatus Thorarchaeota archaeon]
+>TFG09754.1 hypothetical protein EU538_04110 [Candidatus Thorarchaeota archaeon]
+>RDE16844.1 hypothetical protein C4K47_00875 [Candidatus Thorarchaeota archaeon]
+>RDE14086.1 hypothetical protein C4K48_07145 [Candidatus Thorarchaeota archaeon]
+>RLI59518.1 hypothetical protein DRO87_02680 [Candidatus Thorarchaeota archaeon]
+>RLI55359.1 hypothetical protein DRP09_10095 [Candidatus Thorarchaeota archaeon]
+>TKJ26793.1 hypothetical protein CEE42_04240 [Candidatus Lokiarchaeota archaeon 
+>OLS18989.1 hypothetical protein OdinLCB4_00100 [Candidatus Odinarchaeota 
+>OLS18986.1 hypothetical protein OdinLCB4_00070 [Candidatus Odinarchaeota 
+>RLI52887.1 hypothetical protein DRP09_17005, partial [Candidatus Thorarchaeota 
+>TKJ26802.1 type III-A CRISPR-associated protein Csm2 [Candidatus Lokiarchaeota 
+>RLI63783.1 type III-A CRISPR-associated protein Csm2, partial [Candidatus 
+>OLS12948.1 hypothetical protein RBG13Loki_3434 [Candidatus Lokiarchaeota 
+>RLI63234.1 type I-E CRISPR-associated protein Cas5/CasD, partial [Candidatus 
+>OLS12949.1 CRISPR-associated protein, Cse3 family [Candidatus Lokiarchaeota 
+>RLI53266.1 hypothetical protein DRP09_16140 [Candidatus Thorarchaeota archaeon]
+>OLS18600.1 hypothetical protein OdinLCB4_03020 [Candidatus Odinarchaeota 
+>RLI60792.1 TIGR02221 family CRISPR-associated protein [Candidatus Thorarchaeota 
+>RLI56107.1 hypothetical protein DRO93_11460, partial [Candidatus Thorarchaeota 
