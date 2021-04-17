@@ -10,4 +10,4 @@ neighborhood_analysis: the hit_neighborhoods.ipynb script retrieves the region n
 
 Result analysis: The Result_analysis.ipynb analyzes results and generates plots and diagrams.
 
-![alt text](Result analysis/CRISPR_systems.png?raw=true)
+[alt text](Result analysis/CRISPR_systems.png)
