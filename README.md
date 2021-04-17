@@ -10,4 +10,6 @@ neighborhood_analysis: the hit_neighborhoods.ipynb script retrieves the region n
 
 Result analysis: The Result_analysis.ipynb analyzes results and generates plots and diagrams.
 
+![CRISPR_systems](https://user-images.githubusercontent.com/54844846/115114279-bb364300-9f8e-11eb-8643-d2c31543ee48.png)
+
 [CRISPR-Cas systems in Asgard archaea](https://github.com/bqn767/CRISPR_Asgard/blob/main/Result%20analysis/CRISPR_systems.png)
