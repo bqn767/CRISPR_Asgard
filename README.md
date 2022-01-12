@@ -1,5 +1,7 @@
 # CRISPR_Asgard
 
+This is a Bioinformatics Project carried out by me (Javier Marchena Hurtado) during my Master's in Bioinformatics in Copenhagen, 2021. 
+
 This repository is divided in 4 directories: arCOGs, PSI-BLAST, neighborhood_analysis, Result analysis. Each directory contains a .ipynb script that executed the code for each stage of the project.
 
 arCOGs: The CRISPR_arCOGs.ipynb script eliminated the arCOGs that were not annotated as CRISPR-related, leaving only the CRISPR-related arCOGs. The CRISPR arCOG profiles are located under the ali-ar14/ directory.
