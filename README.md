@@ -1,6 +1,6 @@
 # CRISPR_Asgard
 
-This is a Bioinformatics Project carried out by me (Javier Marchena Hurtado) during my Master's in Bioinformatics in Copenhagen, 2021. The full project report is available in the pdf "CRISPR-Cas in Asgard Archaea.pdf". 
+This is a Bioinformatics Project carried out by me (Javier Marchena Hurtado) for 2 months during my Master's in Bioinformatics in Copenhagen, 2021. The full project report is available in the pdf "CRISPR-Cas in Asgard Archaea.pdf". 
 
 This repository is divided in 4 directories: arCOGs, PSI-BLAST, neighborhood_analysis, Result analysis. Each directory contains a .ipynb script that executed the code for each stage of the project.
 
